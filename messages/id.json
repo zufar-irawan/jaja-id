@@ -1,0 +1,501 @@
+{
+  "common": {
+    "buttons": {
+      "startShopping": "Mulai Belanja Sekarang",
+      "sellProducts": "Jual Produk Anda",
+      "startShoppingNow": "Mulai Belanja Sekarang"
+    },
+    "currency": {
+      "free": "Gratis"
+    },
+    "company": {
+      "name": "Jaja.id",
+      "fullName": "Jaja Indonesia"
+    },
+    "actions": {
+      "learnMore": "Pelajari Lebih Lanjut",
+      "getStarted": "Mulai Sekarang",
+      "download": "Unduh",
+      "shop": "Belanja Sekarang",
+      "contact": "Hubungi Kami"
+    },
+    "status": {
+      "loading": "Memuat...",
+      "error": "Kesalahan",
+      "success": "Berhasil"
+    }
+  },
+  "cta": {
+    "badge": "🔥 PROMO TERBATAS!",
+    "mainHeading": "Tunggu apalagi?",
+    "subheading": "Bergabunglah dengan ribuan pengguna!",
+    "description": "Dapatkan pengalaman belanja yang tak terlupakan",
+    "longDescription": "Di Jaja ID, kami hadir untuk memberikan pengalaman belanja yang cepat, aman, dan menyenangkan. Temukan produk-produk pilihan dari penjual terpercaya, atau buka toko sendiri dan jangkau ribuan pelanggan di seluruh Indonesia. Anda bisa memulai semuanya hari ini, langsung dari ujung jari Anda!",
+    "buttons": {
+      "startShopping": "Mulai Belanja Sekarang",
+      "sellProducts": "Jual Produk Anda"
+    }
+  },
+  "dijaminOri": {
+    "title": "Dijamin 100%",
+    "subtitle": "Produk Original",
+    "badge": "Kualitas Asli ✨",
+    "description": "Di Jaja.id, semua produk dijamin 100% original dan dilengkapi dengan garansi resmi. Setiap barang telah dikurasi untuk memastikan kualitas dan keasliannya. Tidak ada barang palsu, tidak ada penipuan, hanya produk asli dari brand terpercaya untuk memenuhi kebutuhan hobi Anda.",
+    "features": {
+      "officialWarranty": "Garansi Resmi",
+      "qualityControl": "Kontrol Kualitas"
+    }
+  },
+  "events": {
+    "title": "Event Seru",
+    "altText": "Banner Event"
+  },
+  "features": {
+    "title": "Kenapa memilih kami?",
+    "subtitle": "Nikmati pengalaman belanja hobi yang tak terlupakan dengan fitur-fitur canggih yang dirancang khusus untuk para penggemar hobi",
+    "items": {
+      "fastDelivery": "Pengiriman Cepat",
+      "freeShipping": "Gratis Ongkir",
+      "securePayment": "Pembayaran Aman",
+      "guaranteed100Original": "Dijamin 100% Original"
+    }
+  },
+  "gratisOngkir": {
+    "title": "Nggak Perlu Bayar",
+    "subtitle": "Ongkos Kirim!",
+    "badge": "Hemat Lebih Banyak 💸",
+    "description": "Belanja sekarang tanpa khawatir biaya pengiriman! Di Jaja.id, Anda bisa menikmati pengalaman belanja yang lebih ekonomis karena tidak perlu membayar ongkos kirim untuk setiap transaksi. Tidak ada biaya tambahan, tidak ada syarat yang rumit—tinggal pilih produk favorit, checkout, dan biarkan kami mengirimkannya langsung ke rumah Anda dengan gratis ongkir.",
+    "features": {
+      "save100Shipping": "Hemat 100% Ongkir",
+      "noMinimumOrder": "Tanpa Minimal Order",
+      "allProducts": "Semua Produk",
+      "wholeIndonesia": "Seluruh Indonesia"
+    }
+  },
+  "hero": {
+    "badge": "MARKETPLACE HOBI #1 DI INDONESIA",
+    "title": "Jaja.id",
+    "subtitle": "Wujudkan Passion Hobi Anda",
+    "description": "Platform marketplace terpercaya untuk semua kebutuhan hobi Anda. Dari gaming hingga seni, dari olahraga hingga koleksi - temukan semuanya di sini dengan harga terbaik!",
+    "buttons": {
+      "startShopping": "Mulai Belanja",
+      "sellProducts": "Jual Produk Anda"
+    }
+  },
+  "pembayaranAman": {
+    "title": "Pembayaran Aman &",
+    "subtitle": "Terpercaya!",
+    "badge": "Keamanan Level Bank 🔐",
+    "description": "Belanja di Jaja.id lebih aman dengan sistem pembayaran yang aman dan terpercaya. Didukung dengan teknologi enkripsi dan partner pembayaran resmi, setiap transaksi dijamin mudah, cepat, dan terlindungi sepenuhnya.",
+    "features": {
+      "multiPaymentGateway": "Multi Payment Gateway",
+      "monitoring24x7": "Monitoring 24/7"
+    },
+    "paymentMethods": {
+      "title": "Metode Pembayaran:",
+      "bankTransfer": "Transfer Bank",
+      "eWallet": "E-Wallet",
+      "creditCard": "Kartu Kredit",
+      "qris": "QRIS"
+    }
+  },
+  "pengirimanCepat": {
+    "title": "Pengiriman Cepat &",
+    "subtitle": "Terpercaya",
+    "badge": "Pengiriman Kilat",
+    "description": "Belanja tanpa khawatir, karena setiap pesanan akan dikirim super cepat dengan layanan yang terpercaya! Didukung oleh partner logistik terbaik, kami memastikan produk Anda sampai dengan aman dan tepat waktu.",
+    "features": {
+      "delivery24Hours": "Pengiriman 24 Jam",
+      "realtimeTracking": "Pelacakan Real-time",
+      "safeGuarantee": "Jaminan Aman"
+    }
+  },
+  "navigation": {
+    "home": "Beranda",
+    "features": "Fitur",
+    "events": "Event",
+    "fastDelivery": "Pengiriman Cepat",
+    "freeShipping": "Gratis Ongkir",
+    "securePayment": "Pembayaran Aman",
+    "guaranteed100Original": "Dijamin 100% Original"
+  },
+  "altTexts": {
+    "jajaId": "Jaja ID",
+    "hobby": "Hobi",
+    "guaranteed100Original": "Dijamin 100% Original",
+    "freeDelivery": "Gratis Pengiriman",
+    "securePayment": "Pembayaran Aman",
+    "fastCourier": "Kurir Cepat"
+  },
+  "footer": {
+    "company": {
+      "name": "Jaja.id",
+      "links": {
+        "about": "Tentang Jaja",
+        "privacy": "Kebijakan Privasi"
+      }
+    },
+    "socialMedia": {
+      "title": "Media Sosial",
+      "platforms": {
+        "whatsapp": "WhatsApp",
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "tiktok": "TikTok"
+      }
+    },
+    "customerService": {
+      "title": "Layanan Pelanggan",
+      "links": {
+        "complaints": "Keluhan",
+        "returns": "Retur & Refund",
+        "help": "Bantuan",
+        "startSelling": "Mulai Jual"
+      }
+    },
+    "shipping": {
+      "title": "Pengiriman & Pembayaran",
+      "methods": {
+        "jnt": "J&T Express",
+        "sicepat": "SiCepat",
+        "bca": "Bank BCA",
+        "mandiri": "Bank Mandiri",
+        "bni": "Bank BNI",
+        "visa": "VISA",
+        "gopay": "GoPay"
+      }
+    },
+    "download": {
+      "title": "Unduh Aplikasi",
+      "appStore": "App Store",
+      "playStore": "Play Store"
+    },
+    "copyright": "Hak cipta dilindungi."
+  },
+  "header": {
+    "navigation": {
+      "home": "Beranda",
+      "about": "Tentang",
+      "terms": "Syarat & Ketentuan",
+      "privacy": "Kebijakan Privasi",
+      "shop": "Belanja"
+    },
+    "logo": {
+      "alt": "Logo"
+    },
+    "menu": {
+      "toggle": "Toggle Menu"
+    }
+  },
+  "products": {
+    "section": {
+      "title": "Kategori",
+      "subtitle": "Temukan berbagai kategori produk yang sesuai dengan kebutuhan dan minat Anda"
+    },
+    "categories": {
+      "art": {
+        "name": "Seni",
+        "icon": "🎨"
+      },
+      "books": {
+        "name": "Buku",
+        "icon": "📚"
+      },
+      "kitchen": {
+        "name": "Dapur",
+        "icon": "🍳"
+      },
+      "game": {
+        "name": "Game",
+        "icon": "🎮"
+      },
+      "gardening": {
+        "name": "Berkebun",
+        "icon": "🌱"
+      },
+      "music": {
+        "name": "Musik",
+        "icon": "🎵"
+      },
+      "pets": {
+        "name": "Hewan Peliharaan",
+        "icon": "🐕"
+      },
+      "photography": {
+        "name": "Fotografi",
+        "icon": "📸"
+      },
+      "sports": {
+        "name": "Olahraga",
+        "icon": "⚽"
+      },
+      "toys": {
+        "name": "Mainan",
+        "icon": "🧸"
+      }
+    }
+  },
+  "meta": {
+    "language": "id",
+    "region": "ID",
+    "currency": "IDR",
+    "dateFormat": "DD/MM/YYYY"
+  },
+  "about": {
+    "title": "Tentang Jaja ID",
+    "company": {
+      "title": "Tentang Perusahaan",
+      "description": [
+        "Jaja ID adalah platform marketplace yang fokus pada dunia hobi. Kami hadir untuk memberdayakan para penggemar hobi di Indonesia dengan menyediakan tempat yang aman, nyaman, dan terkurasi untuk jual beli. Sejak diluncurkan pada tahun 2020, kami telah menjadi rumah bagi ribuan komunitas dan pengguna aktif dari berbagai latar belakang hobi.",
+        "Dengan tim yang berpengalaman dan teknologi yang canggih, kami menghadirkan platform yang mudah digunakan, aman, dan terpercaya untuk memenuhi kebutuhan digital Anda.",
+        "Kami percaya bahwa teknologi harus dapat diakses oleh semua orang dan memiliki dampak positif bagi kemajuan bangsa."
+      ]
+    },
+    "vision_mission": {
+      "title": "Visi & Misi",
+      "vision": {
+        "title": "Visi",
+        "description": "Menjadi marketplace hobi terbesar dan terpercaya di Indonesia yang mendukung pertumbuhan komunitas, memperluas akses terhadap produk hobi, dan menghubungkan kreator serta penggemar hobi dalam satu platform yang aman dan inovatif."
+      },
+      "mission": {
+        "title": "Misi",
+        "items": [
+          "Merangkul komunitas hobi yang ada di Indonesia",
+          "Memberdayakan UMKM melalui digitalisasi yang tepat sasaran",
+          "Memenuhi semua kebutuhan hobi untuk semua kalangan"
+        ]
+      }
+    },
+    "head_office": {
+      "title": "Alamat Kantor Pusat",
+      "company_name": "PT. Jaja Usaha Laku",
+      "address": {
+        "title": "Alamat:",
+        "value1": "Jl.H. Baping Raya No. 100",
+        "value2": "Gedung S, Ciracas",
+        "value3": "Jakarta Timur, 13740"
+      },
+      "phone": {
+        "title": "Telepon:",
+        "value": "+62 878-8833-7555"
+      },
+      "email": {
+        "title": "Email:",
+        "value": "jajabussdev@gmail.com"
+      },
+      "operating_hours": {
+        "title": "Jam Operasional:",
+        "value": "Senin - Jumat: 08:00 - 16:00 WIB"
+      }
+    }
+  },
+  "privacy_policy": {
+    "introduction": {
+      "title": "Pendahuluan",
+      "section1_1": "1.1 Selamat datang di platform Jaja.id, Kebijakan Privasi ini (\"Kebijakan Privasi\" atau \"Kebijakan\") dirancang untuk membantu Anda memahami bagaimana kami mengumpulkan, menggunakan, mengungkapkan dan/atau mengolah data pribadi yang telah Anda percayakan kepada kami dan/atau kami miliki tentang Anda, baik di masa sekarang maupun di masa mendatang, serta untuk membantu Anda membuat keputusan yang tepat sebelum memberikan data pribadi Anda kepada kami. Silakan baca Kebijakan Privasi ini dengan cermat. Apabila Anda memiliki pertanyaan tentang informasi ini atau praktik privasi kami, silakan lihat bagian yang berjudul \"Pertanyaan, Masalah atau Keluhan? Hubungi Kami\" di akhir Kebijakan Privasi ini.",
+      "section1_2": "1.2 \"Data Pribadi\" atau \"data pribadi\" berarti data, baik benar maupun tidak, tentang individu yang dapat diidentifikasi dari data tersebut, atau dari data dan informasi lainnya yang dapat atau kemungkinan dapat diakses oleh suatu organisasi. Contoh umum data pribadi dapat mencakup nama, nomor identifikasi dan informasi kontak.",
+      "section1_3": "1.3 Dengan menggunakan Layanan, mendaftarkan akun pada kami, mengunjungi situs web kami, atau mengakses Layanan, Anda mengakui dan setuju bahwa Anda menerima praktik, persyaratan, dan/atau kebijakan yang diuraikan dalam Kebijakan Privasi ini, dan Anda dengan ini mengizinkan kami untuk mengumpulkan, menggunakan, mengungkapkan dan/atau mengolah data pribadi Anda seperti yang dijelaskan di sini. APABILA ANDA TIDAK MENGIZINKAN PENGOLAHAN DATA PRIBADI ANDA SEPERTI YANG DIJELASKAN DALAM KEBIJAKAN PRIVASI INI, MOHON JANGAN MENGGUNAKAN LAYANAN KAMI ATAU MENGAKSES SITUS WEB KAMI. Apabila kami mengubah Kebijakan Privasi kami, kami akan memposting perubahan tersebut atau Kebijakan Privasi yang telah diubah pada situs web kami. Kami berhak untuk mengubah Kebijakan Privasi ini setiap saat."
+    },
+    "survey": {
+      "title": "Survei",
+      "content": "Dari waktu ke waktu, kami mungkin meminta informasi dari Pengguna melalui survei. Partisipasi dalam survei ini sepenuhnya bersifat sukarela dan karenanya Anda memiliki pilihan untuk mengungkapkan informasi Anda kepada kami atau tidak. Informasi yang diminta dapat mencakup, dengan tidak terbatas pada, informasi kontak (seperti alamat email Anda), dan informasi demografis (seperti minat atau tingkat usia). Informasi survei akan digunakan untuk tujuan memantau atau meningkatkan penggunaan dan kepuasan Layanan serta tidak akan dialihkan ke pihak ketiga, selain kontraktor kami yang membantu kami mengelola atau menindaklanjuti survei."
+    },
+    "thirdParty": {
+      "title": "Informasi yang Dikumpulkan oleh Pihak Ketiga",
+      "section14_1": "14.1 Situs kami menggunakan Google Analytics, sebuah layanan analisis web yang disediakan oleh Google, Inc. (\"Google\"). Google Analytics menggunakan cookies, yaitu file teks yang ditaruh di komputer Anda, untuk membantu situs web menganalisis bagaimana Pengguna menggunakan Situs. Informasi yang hasilkan oleh cookie tentang penggunaan situs web oleh Anda (termasuk alamat IP Anda) akan dikirimkan ke dan disimpan oleh Google di server di Amerika Serikat. Google akan menggunakan informasi ini untuk tujuan mengevaluasi penggunaan situs web oleh Anda, menyusun laporan tentang kegiatan situs web untuk operator situs web serta menyediakan layanan lainnya yang berkaitan dengan kegiatan situs web dan penggunaan Internet. Google juga dapat mengalihkan informasi ini kepada pihak ketiga bila diwajibkan untuk melakukannya oleh hukum, atau bila pihak ketiga tersebut mengolah informasi tersebut atas nama Google. Google tidak akan mengaitkan alamat IP Anda dengan data lain apapun yang dimiliki oleh Google.",
+      "section15_2": "15.2 Kami, dan pihak ketiga, dari waktu ke waktu dapat menyediakan unduhan aplikasi perangkat lunak untuk Anda gunakan di atau melalui Layanan. Aplikasi ini dapat mengakses secara terpisah, dan memungkinkan pihak ketiga untuk melihat informasi identifikasi Anda, seperti nama Anda, ID pengguna Anda, Alamat IP komputer Anda atau informasi lainnya seperti cookies yang mungkin sebelumnya telah Anda pasang atau dipasang untuk Anda oleh aplikasi perangkat lunak atau situs web pihak ketiga. Selain itu, aplikasi ini dapat meminta Anda untuk memberikan informasi tambahan secara langsung kepada pihak ketiga. Produk atau layanan pihak ketiga yang disediakan melalui aplikasi ini tidak dimiliki atau dikendalikan oleh Jaja.id. Anda disarankan untuk membaca syarat dan ketentuan yang diterbitkan oleh pihak ketiga tersebut di situs web mereka atau di tempat lainnya."
+    },
+    "termsConditions": {
+      "title": "Syarat dan Ketentuan",
+      "content": "Silakan juga baca Syarat Layanan yang menetapkan penggunaan, penafian, dan batasan tanggung jawab yang mengatur penggunaan Situs dan Layanan serta kebijakan terkait lainnya."
+    },
+    "sharing_information": {
+      "title": "Berbagi Informasi dari Layanan",
+      "description": "Layanan kami memungkinkan Pengguna untuk membagikan informasi pribadi mereka satu sama lain, dalam hampir semua kesempatan tanpa keterlibatan Jaja.id, untuk menyelesaikan transaksi. Dalam transaksi regular, Pengguna dapat memiliki akses ke nama, ID pengguna, alamat email serta kontak dan informasi pos lainnya dari pengguna lain."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "description": "6.1 Dari waktu ke waktu kami dapat mengimplementasikan \"cookies\" atau fitur lain untuk memungkinkan kami atau pihak ketiga mengumpulkan atau berbagi informasi yang akan membantu kami meningkatkan Situs dan Layanan yang kami tawarkan, atau membantu kami menawarkan layanan dan fitur baru. \"Cookies\" adalah pengidentifikasi yang kami transfer ke komputer atau perangkat lunak Anda yang memungkinkan kami mengenali komputer atau perangkat Anda dan memberi tahu kami bagaimana dan kapan Layanan atau situs web digunakan atau dikunjungi, oleh berapa banyak orang dan melacak pergerakan dalam situs web kami. Kami dapat menghubungkan informasi cookie dengan data pribadi. Cookies juga terkait dengan informasi tentang item yang telah Anda pilih untuk pembelian dan halaman yang telah Anda lihat. Informasi ini digunakan misalnya untuk memantau keranjang belanja Anda. Cookies juga digunakan untuk memberikan konten yang sesuai dengan minat Anda dan memantau penggunaan situs web. 6.2 Anda dapat menolak penggunaan cookies dengan memilih pengaturan yang sesuai pada browser Anda. Namun, harap dicatat bahwa jika Anda melakukan ini, Anda mungkin tidak dapat menggunakan fungsionalitas penuh dari Situs atau Layanan kami."
+    },
+    "personal_data_collection": {
+      "title": "Kapan Jaja.ID Mengumpulkan Data Pribadi?",
+      "description": "2.1 Kami akan/dapat mengumpulkan data pribadi Anda:",
+      "items": [
+        "ketika Anda mendaftar dan/atau menggunakan Layanan atau Situs kami, atau membuka akun dengan kami.",
+        "ketika Anda mengadakan perjanjian atau memberikan dokumen atau informasi lain sehubungan dengan interaksi Anda dengan kami, atau ketika Anda menggunakan produk dan layanan kami;",
+        "ketika Anda menyerahkan formulir apa pun, termasuk, namun tidak terbatas pada, formulir aplikasi atau formulir lain yang berkaitan dengan produk dan layanan kami, baik secara online maupun dalam bentuk fisik;",
+        "ketika Anda menggunakan layanan elektronik kami, atau berinteraksi dengan kami melalui aplikasi kami atau menggunakan layanan di situs web kami. Ini termasuk, tanpa batasan, melalui cookies yang mungkin kami gunakan ketika Anda berinteraksi dengan aplikasi atau situs web kami;",
+        "ketika Anda berinteraksi dengan kami, seperti melalui panggilan telepon (yang mungkin direkam), surat, faks, pertemuan tatap muka, platform media sosial dan email;",
+        "ketika Anda menyerahkan data pribadi Anda kepada kami untuk alasan apa pun.",
+        "ketika Anda bertransaksi melalui Layanan kami;",
+        "ketika Anda menyampaikan kritik dan saran atau keluhan kepada kami;",
+        "ketika Anda mendaftar untuk kontes; atau"
+      ],
+      "additional_info": [
+        "Daftar di atas tidak dimaksudkan sebagai daftar lengkap dan hanya menetapkan beberapa contoh umum ketika data pribadi Anda mungkin diambil.",
+        "2.2 Ketika Anda mengunjungi, menggunakan atau berinteraksi dengan aplikasi mobile atau Situs kami, kami dapat mengumpulkan informasi tertentu secara otomatis atau pasif menggunakan berbagai teknologi, di mana teknologi tersebut dapat diunduh ke perangkat Anda dan dapat menetapkan atau mengubah pengaturan pada perangkat Anda. Informasi yang kami kumpulkan dapat mencakup, tanpa batasan, alamat Internet Protocol (IP), sistem operasi komputer/perangkat mobile dan jenis browser, jenis perangkat mobile, karakteristik perangkat mobile, pengenal perangkat unik (UDID) atau pengenal peralatan mobile (MEID) untuk perangkat mobile Anda, alamat situs rujukan (jika ada), dan halaman yang Anda kunjungi di situs web dan aplikasi mobile kami serta jumlah kunjungan. Kami hanya dapat mengumpulkan, menggunakan, mengungkapkan dan/atau memproses informasi ini untuk Tujuan (didefinisikan di bawah).",
+        "2.4 Aplikasi mobile kami dapat mengumpulkan informasi yang tepat tentang lokasi perangkat mobile Anda menggunakan teknologi seperti GPS, Wi-Fi, dll. Kami mengumpulkan, menggunakan, mengungkapkan dan/atau memproses informasi ini untuk satu atau lebih Tujuan termasuk, tanpa batasan, layanan berbasis lokasi yang Anda minta atau untuk memberikan konten yang relevan kepada Anda berdasarkan lokasi Anda atau untuk memungkinkan Anda berbagi lokasi Anda dengan Pengguna lain sebagai bagian dari layanan aplikasi mobile kami. Untuk sebagian besar perangkat mobile, Anda dapat menarik izin Anda bagi kami untuk memperoleh informasi lokasi ini melalui pengaturan perangkat Anda. Jika Anda memiliki pertanyaan tentang cara menonaktifkan layanan lokasi pada perangkat mobile Anda, silakan hubungi penyedia layanan perangkat mobile Anda atau produsen perangkat."
+      ]
+    },
+    "data_types": {
+      "title": "Data Pribadi Apa yang Akan Dikumpulkan oleh Jaja.ID?",
+      "description": "3.1 Data pribadi yang dapat dikumpulkan oleh Jaja.id meliputi namun tidak terbatas pada:",
+      "items": [
+        "nama;",
+        "alamat email;",
+        "nomor telepon;",
+        "tanggal lahir;",
+        "jenis kelamin;",
+        "alamat penagihan;",
+        "rekening bank dan informasi pembayaran;",
+        "informasi lain tentang Pengguna ketika Pengguna mendaftar untuk menggunakan"
+      ],
+      "additional_info": "Layanan atau situs web kami, dan ketika Pengguna menggunakan Layanan atau situs web, serta informasi yang berkaitan dengan bagaimana Pengguna menggunakan Layanan atau situs web kami; dan semua data tentang konten yang digunakan Pengguna. 3.2 Jika Anda tidak ingin kami mengumpulkan informasi/data pribadi yang disebutkan di atas, Anda dapat memilih keluar kapan saja dengan memberitahu Petugas Perlindungan Data kami secara tertulis tentang hal ini. Informasi lebih lanjut tentang memilih keluar dapat ditemukan di bagian di bawah yang berjudul \"Bagaimana Anda dapat memilih keluar, menghapus, meminta akses atau mengubah informasi yang telah Anda berikan kepada kami?\". Namun, harap dicatat bahwa memilih keluar dari kami mengumpulkan data pribadi Anda atau menarik izin Anda bagi kami untuk mengumpulkan, menggunakan atau memproses data pribadi Anda dapat memengaruhi penggunaan Layanan Anda. Misalnya, memilih keluar dari pengumpulan informasi lokasi akan mengakibatkan fitur berbasis lokasi dinonaktifkan."
+    },
+    "third_party_security": {
+      "title": "Penyangkalan Tentang Keamanan dan Situs Pihak Ketiga",
+      "description": [
+        "16.1 KAMI TIDAK MENJAMIN KEAMANAN DATA PRIBADI DAN/ATAU INFORMASI LAIN YANG ANDA BERIKAN DI SITUS PIHAK KETIGA. Kami mengimplementasikan berbagai langkah keamanan untuk mempertahankan keamanan data pribadi Anda yang kami miliki atau di bawah kendali kami. Data pribadi Anda berada di belakang jaringan yang aman dan hanya dapat diakses oleh sejumlah kecil orang yang memiliki hak akses khusus ke sistem tersebut, dan diwajibkan untuk menjaga kerahasiaan data pribadi tersebut. Ketika Anda melakukan pemesanan atau mengakses data pribadi Anda, kami menawarkan penggunaan server yang aman. Semua data pribadi atau informasi sensitif yang Anda berikan dienkripsi ke dalam database kami hanya untuk diakses sebagaimana disebutkan di atas.",
+        "16.2 Dalam upaya memberikan nilai yang lebih baik kepada Anda, kami dapat memilih berbagai situs web pihak ketiga untuk ditautkan dan dibingkai dalam Situs. Kami juga dapat berpartisipasi dalam co-branding dan hubungan lain untuk menawarkan e-commerce serta layanan dan fitur lain kepada pengunjung kami. Situs yang ditautkan ini memiliki kebijakan privasi yang terpisah dan independen serta pengaturan keamanan. Bahkan jika pihak ketiga tersebut berafiliasi dengan kami, kami tidak memiliki kontrol atas situs yang ditautkan tersebut, dan setiap situs tersebut memiliki praktik privasi yang terpisah dan independen serta pengumpulan data dari kami. Data yang dikumpulkan oleh mitra kami dalam co-branding atau situs web pihak ketiga (bahkan jika ditawarkan di atau melalui Situs kami) mungkin tidak diterima oleh kami.",
+        "16.3 Oleh karena itu kami tidak bertanggung jawab atau memiliki kewajiban apa pun untuk konten, pengaturan keamanan (atau kekurangannya) dan aktivitas situs yang ditautkan tersebut. Situs yang ditautkan ini hanya untuk kenyamanan Anda dan oleh karena itu Anda mengaksesnya dengan risiko Anda sendiri. Namun demikian, kami berusaha melindungi integritas Situs kami dan setiap tautan yang ditempatkan dan oleh karena itu kami menyambut baik umpan balik tentang situs yang ditautkan tersebut (termasuk, tanpa batasan, ketika tautan tertentu tidak berfungsi)."
+      ]
+    },
+    "services": {
+      "title": "Layanan",
+      "description": "8.1 Kami menyediakan dukungan layanan pelanggan melalui email, SMS dan formulir umpan balik. Untuk memberikan dukungan pelanggan, kami akan meminta alamat email dan nomor telepon mobile Anda. Kami hanya akan menggunakan informasi yang diterima dari permintaan dukungan pelanggan, termasuk, tanpa batasan, alamat email, untuk layanan dukungan pelanggan dan kami tidak mentransfer atau membagikan informasi ini dengan pihak ketiga mana pun."
+    },
+    "viewing_web": {
+      "title": "Melihat Halaman Web",
+      "description": "Seperti kebanyakan situs web, komputer Anda mengirim informasi yang mungkin termasuk data pribadi tentang Anda yang dicatat oleh server web ketika Anda menjelajahi Situs kami. Ini biasanya termasuk tanpa batasan alamat IP komputer Anda, sistem operasi, nama/versi browser Anda, halaman web rujukan, halaman yang diminta, tanggal/waktu, dan kadang-kadang \"cookies\" (yang dapat dinonaktifkan menggunakan preferensi browser Anda) untuk membantu situs mengingat kunjungan terakhir Anda. Jika Anda masuk, informasi ini dikaitkan dengan akun pribadi Anda. Informasi juga disertakan dalam statistik anonim untuk memungkinkan kami memahami bagaimana pengunjung menggunakan situs kami."
+    },
+    "protecting_information": {
+      "title": "Bagaimana Jaja.ID Melindungi Informasi Pelanggan?",
+      "description": "Kami mengimplementasikan berbagai langkah keamanan untuk memastikan keamanan data pribadi Anda dalam sistem kami. Data pribadi Pengguna berada di belakang jaringan yang aman dan hanya dapat diakses oleh sejumlah kecil karyawan yang memiliki hak akses khusus ke sistem tersebut. Jika Anda berhenti menggunakan Situs, atau izin Anda untuk menggunakan Situs dan/atau Layanan dihentikan, kami dapat terus menyimpan, menggunakan dan/atau mengungkapkan data pribadi Anda sesuai dengan Kebijakan Privasi ini. Tunduk pada hukum yang berlaku, kami dapat membuang data pribadi Anda dengan aman tanpa pemberitahuan sebelumnya kepada Anda."
+    },
+    "creating_account": {
+      "title": "Membuat Akun",
+      "description": "Untuk menggunakan fitur tertentu dari Layanan, Anda harus membuat akun pengguna yang mengharuskan Anda untuk mengirimkan data pribadi tertentu. Ketika Anda mendaftar dan membuat akun, kami mengharuskan Anda untuk memberikan kami nama dan alamat email Anda serta nama pengguna pilihan Anda. Kami juga meminta informasi tertentu tentang diri Anda seperti nomor telepon, alamat email, alamat pengiriman, identifikasi foto, rincian rekening bank, usia, tanggal lahir, jenis kelamin dan minat Anda. Setelah mengaktifkan akun Anda, Anda akan memilih nama pengguna dan kata sandi. Nama pengguna dan kata sandi Anda akan digunakan sehingga Anda dapat mengakses dan mengelola akun Anda dengan aman."
+    },
+    "opting_out": {
+      "title": "Bagaimana Anda Dapat Keluar, Menghapus, Meminta Akses atau Mengubah Informasi yang Telah Anda Berikan kepada Kami?",
+      "sections": {
+        "opt_out": {
+          "title": "17.1 Keluar dan Menarik Persetujuan",
+          "items": [
+            "17.1.1 Untuk mengubah langganan email Anda, harap beri tahu kami dengan mengirim email ke jajabussdev@gmail.com. Harap dicatat bahwa karena jadwal produksi email, Anda mungkin masih menerima email yang sudah diproduksi.",
+            "17.1.2 Anda dapat menarik persetujuan Anda terhadap pengumpulan, penggunaan dan/atau pengungkapan data pribadi Anda yang kami miliki atau dalam kendali kami dengan mengirim email ke jajabussdev@gmail.com",
+            "17.1.3 Setelah kami menerima instruksi penarikan yang jelas dari Anda dan memverifikasi identitas Anda, kami akan memproses permintaan Anda untuk penarikan persetujuan, dan setelah itu kami tidak akan mengumpulkan, menggunakan dan/atau mengungkapkan data pribadi Anda dengan cara yang ditetapkan dalam permintaan Anda. Jika kami tidak dapat memverifikasi identitas Anda atau memahami instruksi Anda, kami akan menghubungi Anda untuk memahami permintaan Anda.",
+            "17.1.4 Namun, penarikan persetujuan Anda dapat mengakibatkan konsekuensi hukum tertentu yang timbul dari penarikan tersebut. Dalam hal ini, tergantung pada sejauh mana penarikan persetujuan untuk kami memproses data pribadi Anda, ini mungkin berarti bahwa kami tidak akan dapat terus memberikan Layanan kepada Anda, kami mungkin perlu mengakhiri hubungan dan/atau kontrak yang Anda miliki dengan kami, dll., sebagaimana mestinya, yang akan kami beritahukan kepada Anda."
+          ]
+        },
+        "access_correction": {
+          "title": "17.2 Meminta Akses dan/atau Koreksi Data Pribadi",
+          "items": [
+            "17.2.1 Jika Anda memiliki akun dengan kami, Anda dapat mengakses dan/atau mengoreksi data pribadi Anda yang saat ini kami miliki atau kendalikan sendiri melalui halaman Pengaturan Akun di Situs. Jika Anda tidak memiliki akun dengan kami, Anda dapat meminta untuk mengakses dan/atau mengoreksi data pribadi Anda yang saat ini kami miliki atau kendalikan dengan mengirimkan permintaan tertulis kepada kami. Kami memerlukan informasi yang cukup dari Anda untuk memastikan identitas Anda serta sifat permintaan Anda sehingga kami dapat menangani permintaan Anda. Oleh karena itu, silakan kirim permintaan tertulis Anda dengan mengirim email ke jajabussdev@gmail.com",
+            "17.2.2 Untuk permintaan akses data pribadi, setelah kami memiliki informasi yang cukup dari Anda untuk menangani permintaan tersebut, kami akan berusaha memberikan Anda data pribadi yang relevan dalam waktu 30 hari, kami akan memberi tahu Anda kapan kami dapat memberikan informasi yang diminta kepada Anda sesegera mungkin.",
+            "17.2.3 Untuk permintaan koreksi data pribadi, setelah kami memiliki informasi yang cukup dari Anda untuk menangani permintaan tersebut, kami akan: (a) mengoreksi data pribadi Anda dalam waktu 30 hari. Jika kami tidak dapat melakukannya dalam jangka waktu tersebut, kami akan memberi tahu Anda kapan kami dapat melakukan koreksi sesegera mungkin. Harap dicatat bahwa ada situasi tertentu di mana koreksi tidak perlu dilakukan oleh kami meskipun ada permintaan dari Anda; dan",
+            "17.2.4 Kami juga dapat/dapat mengenakan biaya yang wajar kepada Anda untuk menangani dan memproses permintaan Anda untuk mengakses data pribadi Anda. Jika kami memilih untuk mengenakan biaya, kami akan memberikan Anda perkiraan tertulis tentang biaya yang akan kami kenakan kepada Anda. Harap dicatat bahwa kami tidak wajib menanggapi atau menangani permintaan akses Anda kecuali Anda telah setuju untuk membayar biaya tersebut.",
+            "17.2.5 Kami berhak untuk menolak mengoreksi data pribadi Anda sesuai dengan ketentuan yang ditetapkan dalam Undang-Undang Privasi."
+          ]
+        }
+      }
+    },
+    "downloading_content": {
+      "title": "Melihat dan Mengunduh Konten dan Iklan",
+      "description": "Sama seperti ketika menjelajahi halaman web, ketika Anda melihat konten dan iklan serta mengakses perangkat lunak lain di Situs kami atau melalui Layanan, beberapa informasi yang sama dikirim kepada kami (termasuk, tanpa batasan, Alamat IP, sistem operasi, dll.); tetapi alih-alih tentang berapa kali halaman dilihat, komputer Anda mengirim informasi kepada kami tentang konten, iklan yang dilihat dan/atau perangkat lunak yang dipasang oleh Layanan dan situs web serta waktu."
+    },
+    "disclosure": {
+      "title": "Apakah Jaja.ID Mengungkapkan Informasi yang Dikumpulkan dari Pengunjung kepada Pihak Luar?",
+      "description": "13.1 Dalam menjalankan bisnis kami, kami akan/mungkin perlu mengungkapkan data pribadi Anda kepada penyedia layanan pihak ketiga, agen dan/atau afiliasi atau perusahaan terkait kami, dan/atau pihak ketiga lainnya, untuk satu atau lebih Tujuan yang disebutkan di atas. Penyedia layanan pihak ketiga, agen dan/atau afiliasi atau perusahaan terkait dan/atau pihak ketiga lainnya tersebut akan memproses data pribadi Anda atas nama kami atau lainnya, untuk satu atau lebih Tujuan yang disebutkan di atas. Pihak ketiga tersebut termasuk, tanpa batasan:",
+      "items": [
+        "(a) anak perusahaan, afiliasi, dan perusahaan terkait kami;",
+        "(b) kontraktor, agen, penyedia layanan dan pihak ketiga lainnya yang kami gunakan untuk mendukung bisnis kami. Ini termasuk tetapi tidak terbatas pada mereka yang menyediakan layanan administratif atau layanan lainnya kepada kami seperti layanan pos, perusahaan telekomunikasi, perusahaan teknologi informasi dan pusat data;",
+        "(c) pembeli atau penerus lainnya dalam hal terjadi penggabungan, divestasi, restrukturisasi, reorganisasi, pembubaran atau penjualan atau transfer lainnya dari sebagian atau seluruh aset Jaja.id, baik sebagai kelangsungan usaha atau sebagai bagian dari kebangkrutan, likuidasi atau proses serupa, di mana data pribadi yang dimiliki oleh Jaja.id tentang Pengguna Layanan kami termasuk di antara aset yang dipindahkan; atau kepada pihak lawan dalam transaksi aset bisnis yang melibatkan Jaja.id atau salah satu afiliasi atau perusahaan terkaitnya; dan",
+        "(d) pihak ketiga kepada siapa kami mengungkapkan data tersebut untuk satu atau lebih Tujuan dan pihak ketiga tersebut pada gilirannya akan mengumpulkan dan memproses data pribadi Anda untuk satu atau lebih Tujuan"
+      ],
+      "additional_info": [
+        "13.2 Ini mungkin memerlukan, antara lain, berbagi informasi statistik dan demografis tentang Pengguna kami dan penggunaan Layanan mereka kepada pemasok iklan dan pemrograman. Ini tidak akan mencakup apa pun yang dapat digunakan untuk mengidentifikasi Anda secara khusus atau menemukan informasi pribadi tentang Anda.",
+        "13.3 Untuk menghindari keraguan, dalam hal Undang-Undang Privasi atau undang-undang yang berlaku lainnya mengizinkan organisasi seperti kami untuk mengumpulkan, menggunakan atau mengungkapkan data pribadi Anda tanpa persetujuan Anda, izin yang diberikan oleh undang-undang tersebut akan terus berlaku.",
+        "13.4 Pihak ketiga dapat mencegat atau mengakses data pribadi yang dikirim ke atau disimpan di situs tanpa izin, teknologi dapat berfungsi dengan tidak benar atau tidak bekerja seperti yang diharapkan, atau seseorang dapat mengakses, mengeksploitasi atau menyalahgunakan informasi tanpa kesalahan di pihak kami. Namun demikian kami akan menggunakan pengaturan keamanan yang wajar untuk melindungi data pribadi Anda; namun tidak dapat dihindari, tidak ada jaminan keamanan mutlak seperti tetapi tidak terbatas pada pengungkapan yang tidak sah yang timbul dari peretasan yang jahat dan canggih oleh pihak yang tidak puas atau bermusuhan tanpa kesalahan di pihak kami."
+      ]
+    },
+    "information_usage": {
+      "title": "Bagaimana Kami Menggunakan Informasi yang Anda Berikan kepada Kami?",
+      "description": "10.1 Kami dapat mengumpulkan, menggunakan, mengungkapkan dan/atau memproses data pribadi Anda untuk satu atau lebih tujuan berikut:",
+      "items": [
+        "(a) untuk mempertimbangkan dan/atau memproses aplikasi/transaksi Anda dengan kami atau transaksi dan komunikasi Anda dengan pihak ketiga melalui Layanan;",
+        "(b) untuk mengelola, mengoperasikan, menyediakan dan/atau mengelola penggunaan dan/atau akses Anda ke Layanan kami dan situs web kami, serta hubungan dan akun pengguna Anda dengan kami.",
+        "(c) untuk mengelola, mengoperasikan, mengelola, menyediakan kepada Anda dan memfasilitasi penyediaan Layanan kami, termasuk, tanpa batasan, mengingat preferensi Anda;",
+        "(d) untuk menyesuaikan pengalaman Anda melalui Layanan dengan menampilkan konten sesuai dengan minat dan preferensi Anda, menyediakan metode yang lebih cepat untuk Anda mengakses akun Anda dan mengirimkan informasi kepada kami serta memungkinkan kami menghubungi Anda, jika perlu;",
+        "(e) untuk menanggapi, memproses, menangani atau menyelesaikan transaksi dan/atau memenuhi permintaan Anda untuk produk dan layanan tertentu dan memberi tahu Anda tentang masalah layanan dan tindakan akun yang tidak biasa;",
+        "(f) untuk menegakkan Ketentuan Layanan atau perjanjian lisensi pengguna akhir yang berlaku;",
+        "(g) untuk melindungi keselamatan pribadi dan hak, properti atau keselamatan orang lain;",
+        "(h) untuk identifikasi dan/atau verifikasi;",
+        "(i) untuk memelihara dan menyediakan pembaruan perangkat lunak dan/atau pembaruan lainnya dan dukungan yang mungkin diperlukan dari waktu ke waktu untuk memastikan kelancaran operasi Layanan kami;",
+        "(j) untuk menangani atau memfasilitasi layanan pelanggan, melaksanakan instruksi Anda, menangani atau menanggapi setiap pertanyaan yang dibuat oleh (atau diduga dibuat oleh) Anda atau atas nama Anda;",
+        "(k) untuk menghubungi Anda atau berkomunikasi dengan Anda melalui panggilan suara, pesan teks dan/atau faks, email dan/atau surat pos atau cara lain untuk tujuan mengelola dan/atau mengelola hubungan Anda dengan kami atau penggunaan Layanan kami, seperti tetapi tidak terbatas pada mengkomunikasikan informasi administratif kepada Anda yang berkaitan dengan Layanan kami. Anda mengakui dan setuju bahwa komunikasi semacam itu oleh kami dapat dilakukan dengan mengirimkan surat, dokumen atau pemberitahuan kepada Anda, yang dapat melibatkan pengungkapan data pribadi tertentu tentang Anda untuk melakukan pengiriman tersebut serta muncul di sampul luar amplop/paket pos;",
+        "(l) untuk memberi tahu Anda ketika Pengguna lain telah mengirimi Anda pesan pribadi atau memposting komentar untuk Anda di Situs;",
+        "(m) untuk melakukan penelitian, analisis dan kegiatan pengembangan (termasuk, tetapi tidak terbatas pada, analisis data, survei, pengembangan produk dan layanan dan/atau profiling), untuk menganalisis bagaimana Anda menggunakan Layanan kami, meningkatkan Layanan atau produk kami dan/atau meningkatkan pengalaman pelanggan Anda;",
+        "(n) untuk memungkinkan audit dan survei untuk, antara lain, memvalidasi ukuran dan komposisi audiens target kami, dan memahami pengalaman mereka dengan Layanan Jaja.id;",
+        "(o) di mana Anda memberikan persetujuan sebelumnya untuk pemasaran dan dalam hal tersebut, untuk mengirimkan Anda melalui pos, email, layanan berbasis lokasi atau sebaliknya, informasi dan materi pemasaran dan promosi yang berkaitan dengan produk dan/atau layanan (termasuk, tanpa batasan, produk dan/atau layanan pihak ketiga yang mungkin berkolaborasi atau dikaitkan dengan Jaja.id) yang mungkin dijual, dipasarkan atau dipromosikan oleh Jaja.id (dan/atau afiliasi atau perusahaan terkaitnya), apakah produk atau layanan tersebut ada sekarang atau dibuat di masa depan.",
+        "(p) untuk menghasilkan statistik dan penelitian untuk pelaporan internal dan yang diwajibkan secara hukum dan/atau persyaratan arsip;",
+        "(q) untuk melakukan uji tuntas atau kegiatan penyaringan lainnya (termasuk, tanpa batasan, pemeriksaan latar belakang) sesuai dengan kewajiban hukum atau peraturan atau prosedur manajemen risiko kami yang mungkin diwajibkan oleh hukum atau yang telah diberlakukan oleh kami;",
+        "(r) untuk mengaudit Layanan kami;",
+        "(s) untuk mencegah atau menyelidiki penipuan, aktivitas melanggar hukum, kelalaian atau pelanggaran, baik yang berkaitan dengan penggunaan Layanan kami atau hal lain yang timbul dari hubungan Anda dengan kami, dan apakah ada kecurigaan terhadap hal tersebut di atas;",
+        "(t) untuk menyimpan, meng-host, membuat cadangan (baik untuk pemulihan bencana atau sebaliknya) data pribadi Anda, baik di dalam atau di luar yurisdiksi Anda;",
+        "(u) tujuan lain yang kami beritahukan kepada Anda pada saat memperoleh persetujuan Anda."
+      ],
+      "additional_info": [
+        "(secara kolektif disebut sebagai \"Tujuan\").",
+        "10.2 Karena tujuan untuk kami akan/mungkin mengumpulkan, menggunakan, mengungkapkan atau memproses data pribadi Anda tergantung pada keadaan yang ada, tujuan tersebut mungkin tidak muncul di atas. Namun, kami akan memberi tahu Anda tentang tujuan lain tersebut pada saat memperoleh persetujuan Anda."
+      ]
+    },
+    "contact_us": {
+      "title": "Pertanyaan, Masalah atau Keluhan? Hubungi Kami",
+      "description": "18.1 Jika Anda memiliki pertanyaan atau kekhawatiran tentang praktik privasi kami atau hubungan Anda dengan Layanan, jangan ragu untuk menghubungi: jajabussdev@gmail.com"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Kebijakan Privasi",
+    "tableOfContents": {
+      "title": "Daftar Isi",
+      "items": [
+        { "href": "#1", "text": "Pengantar" },
+        { "href": "#2", "text": "Kapan Jaja.id Mengumpulkan Data Pribadi?" },
+        { "href": "#3", "text": "Data Pribadi Apa yang Akan Dikumpulkan oleh Jaja.id?" },
+        { "href": "#4", "text": "Membuat Akun" },
+        { "href": "#5", "text": "Melihat Halaman Web" },
+        { "href": "#6", "text": "Cookie" },
+        { "href": "#7", "text": "Melihat dan Mengunduh Konten dan Iklan" },
+        { "href": "#8", "text": "Layanan" },
+        { "href": "#9", "text": "Survei" },
+        { "href": "#10", "text": "Bagaimana Kami Menggunakan Informasi yang Anda Berikan kepada Kami" },
+        { "href": "#11", "text": "Berbagi Informasi dari Layanan" },
+        { "href": "#12", "text": "Bagaimana Jaja.id Melindungi Informasi Pelanggan?" },
+        { "href": "#13", "text": "Apakah Jaja.id Mengungkapkan Informasi kepada Pihak Eksternal?" },
+        { "href": "#14", "text": "Informasi yang Dikumpulkan oleh Pihak Ketiga" },
+        { "href": "#15", "text": "Penafian Tentang Keamanan dan Situs Pihak Ketiga" },
+        { "href": "#16", "text": "Bagaimana Anda Dapat Keluar atau Mengubah Informasi" },
+        { "href": "#17", "text": "Pertanyaan, Masalah atau Keluhan? Hubungi Kami" },
+        { "href": "#18", "text": "Syarat dan Ketentuan" }
+      ]
+    },
+    "ui": {
+      "toggleSidebar": "Toggle Sidebar",
+      "menuIcon": "menu-line",
+      "closeIcon": "close-line",
+      "listIcon": "ri-list-unordered"
+    },
+    "gradients": {
+      "primary": "bg-gradient-to-r from-gray-800 to-[#ED5625] bg-clip-text text-transparent",
+      "header": "bg-gradient-to-r from-white to-blue-100 bg-clip-text text-transparent"
+    },
+    "colors": {
+      "primary": "#55B4E5",
+      "accent": "#ED5625",
+      "hover": "hover:bg-blue-700",
+      "text": "text-gray-700",
+      "textHover": "hover:text-blue-600"
+    }
+  }
+}

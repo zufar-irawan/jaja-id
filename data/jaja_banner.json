@@ -1,0 +1,34 @@
+[
+  {
+    "id": 407,
+    "image": "https://jaja.id/img/ml.515c63c1.jpeg",
+    "link": "#",
+    "status": 1,
+    "sort": 1,
+    "date_added": "2025-06-23T04:08:51.000Z"
+  },
+  {
+    "id": 408,
+    "image": "https://jaja.id/img/banner.1a91078c.jpeg",
+    "link": "#",
+    "status": 1,
+    "sort": 2,
+    "date_added": "2025-06-23T04:09:06.000Z"
+  },
+  {
+    "id": 408,
+    "image": "https://jaja.id/img/pubg.689c6d90.jpeg",
+    "link": "#",
+    "status": 1,
+    "sort": 3,
+    "date_added": "2025-06-23T04:09:06.000Z"
+  },
+  {
+    "id": 408,
+    "image": "https://jaja.id/img/naruto.5e508a21.jpeg",
+    "link": "#",
+    "status": 1,
+    "sort": 4,
+    "date_added": "2025-06-23T04:09:06.000Z"
+  }
+]

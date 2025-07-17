@@ -1,0 +1,530 @@
+{
+  "common": {
+    "buttons": {
+      "startShopping": "Start Shopping Now",
+      "sellProducts": "Sell Your Products",
+      "startShoppingNow": "Start Shopping Now"
+    },
+    "currency": {
+      "free": "Free"
+    },
+    "company": {
+      "name": "Jaja.id",
+      "fullName": "Jaja Indonesia"
+    },
+    "actions": {
+      "learnMore": "Learn More",
+      "getStarted": "Get Started",
+      "download": "Download",
+      "shop": "Shop Now",
+      "contact": "Contact Us"
+    },
+    "status": {
+      "loading": "Loading...",
+      "error": "Error",
+      "success": "Success"
+    }
+  },
+  "cta": {
+    "badge": "🔥 LIMITED PROMO!",
+    "mainHeading": "What are you waiting for?",
+    "subheading": "Join thousands of users!",
+    "description": "Get an unforgettable shopping experience",
+    "longDescription": "At Jaja ID, we are here to provide a fast, safe, and enjoyable shopping experience. Find selected products from trusted sellers, or open your own store and reach thousands of customers throughout Indonesia. You can start everything today, right from your fingertips!",
+    "buttons": {
+      "startShopping": "Start Shopping Now",
+      "sellProducts": "Sell Your Products"
+    }
+  },
+  "dijaminOri": {
+    "title": "Guaranteed 100%",
+    "subtitle": "Original Products",
+    "badge": "Authentic Quality ✨",
+    "description": "At Jaja.id, all products are guaranteed 100% original and come with official warranty. Each item has been curated to ensure quality and authenticity. No fake goods, no fraud, only genuine products from trusted brands to meet your hobby needs.",
+    "features": {
+      "officialWarranty": "Official Warranty",
+      "qualityControl": "Quality Control"
+    }
+  },
+  "events": {
+    "title": "Fun Events",
+    "altText": "Events Banner"
+  },
+  "features": {
+    "title": "Why choose us?",
+    "subtitle": "Enjoy an unforgettable hobby shopping experience with advanced features designed specifically for hobbyists",
+    "items": {
+      "fastDelivery": "Fast Delivery",
+      "freeShipping": "Free Shipping",
+      "securePayment": "Secure Payment",
+      "guaranteed100Original": "Guaranteed 100% Original"
+    }
+  },
+  "gratisOngkir": {
+    "title": "No Need to Pay",
+    "subtitle": "Shipping Fees!",
+    "badge": "Save More Money 💸",
+    "description": "Shop now without worrying about shipping costs! At Jaja.id, you can enjoy a more economical shopping experience because you don't need to pay shipping fees for every transaction. No additional costs, no complicated requirements—just choose your favorite products, checkout, and let us deliver them directly to your home with free shipping.",
+    "features": {
+      "save100Shipping": "Save 100% Shipping",
+      "noMinimumOrder": "No Minimum Order",
+      "allProducts": "All Products",
+      "wholeIndonesia": "Whole Indonesia"
+    }
+  },
+  "hero": {
+    "badge": "1ST MARKETPLACE FOR YOUR HOBBY",
+    "title": "Jaja.id",
+    "subtitle": "Fulfill Your Hobby Passion",
+    "description": "A trusted marketplace platform for all your hobby needs. From gaming to arts, from sports to collectibles - find everything here at the best prices!",
+    "buttons": {
+      "startShopping": "Start Shopping",
+      "sellProducts": "Sell Your Products"
+    }
+  },
+  "pembayaranAman": {
+    "title": "Secure &",
+    "subtitle": "Trusted Payment!",
+    "badge": "Bank Level Security 🔐",
+    "description": "Shopping at Jaja.id is more secure with a safe and trusted payment system. Supported by encryption technology and official payment partners, every transaction is guaranteed to be easy, fast, and fully protected.",
+    "features": {
+      "multiPaymentGateway": "Multi-Payment Gateway",
+      "monitoring24x7": "24/7 Monitoring"
+    },
+    "paymentMethods": {
+      "title": "Payment Methods:",
+      "bankTransfer": "Bank Transfer",
+      "eWallet": "E-Wallet",
+      "creditCard": "Credit Card",
+      "qris": "QRIS"
+    }
+  },
+  "pengirimanCepat": {
+    "title": "Fast &",
+    "subtitle": "Reliable Delivery",
+    "badge": "Lightning Fast Delivery",
+    "description": "Shop without worry, because every order will be delivered super fast with reliable service! Supported by the best logistics partners, we ensure your products arrive safely and on time.",
+    "features": {
+      "delivery24Hours": "24 Hour Delivery",
+      "realtimeTracking": "Real-time Tracking",
+      "safeGuarantee": "Safe Guarantee"
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "features": "Features",
+    "events": "Events",
+    "fastDelivery": "Fast Delivery",
+    "freeShipping": "Free Shipping",
+    "securePayment": "Secure Payment",
+    "guaranteed100Original": "Guaranteed 100% Original"
+  },
+  "altTexts": {
+    "jajaId": "Jaja ID",
+    "hobby": "Hobby",
+    "guaranteed100Original": "Guaranteed 100% Original",
+    "freeDelivery": "Free Delivery",
+    "securePayment": "Secure Payment",
+    "fastCourier": "Fast Courier"
+  },
+  "footer": {
+    "company": {
+      "name": "Jaja.id",
+      "links": {
+        "about": "About Jaja",
+        "privacy": "Privacy Policy"
+      }
+    },
+    "socialMedia": {
+      "title": "Social Media",
+      "platforms": {
+        "whatsapp": "WhatsApp",
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "tiktok": "TikTok"
+      }
+    },
+    "customerService": {
+      "title": "Customer Service",
+      "links": {
+        "complaints": "Handle Complaints",
+        "returns": "Returns & Refunds",
+        "help": "Help",
+        "startSelling": "Start Selling"
+      }
+    },
+    "shipping": {
+      "title": "Shipping & Payment",
+      "methods": {
+        "jnt": "J&T Express",
+        "sicepat": "SiCepat",
+        "bca": "BCA Bank",
+        "mandiri": "Mandiri Bank",
+        "bni": "BNI Bank",
+        "visa": "VISA",
+        "gopay": "GoPay"
+      }
+    },
+    "download": {
+      "title": "Download Apps",
+      "appStore": "App Store",
+      "playStore": "Play Store"
+    },
+    "copyright": "All rights reserved."
+  },
+  "header": {
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "shop": "Shop"
+    },
+    "logo": {
+      "alt": "Logo"
+    },
+    "menu": {
+      "toggle": "Toggle Menu"
+    }
+  },
+  "products": {
+    "section": {
+      "title": "Categories",
+      "subtitle": "Find various product categories that suit your needs and interests"
+    },
+    "categories": {
+      "art": {
+        "name": "Art",
+        "icon": "🎨"
+      },
+      "books": {
+        "name": "Books",
+        "icon": "📚"
+      },
+      "kitchen": {
+        "name": "Kitchen",
+        "icon": "🍳"
+      },
+      "game": {
+        "name": "Game",
+        "icon": "🎮"
+      },
+      "gardening": {
+        "name": "Gardening",
+        "icon": "🌱"
+      },
+      "music": {
+        "name": "Music",
+        "icon": "🎵"
+      },
+      "pets": {
+        "name": "Pets",
+        "icon": "🐕"
+      },
+      "photography": {
+        "name": "Photography",
+        "icon": "📸"
+      },
+      "sports": {
+        "name": "Sports",
+        "icon": "⚽"
+      },
+      "toys": {
+        "name": "Toys",
+        "icon": "🧸"
+      }
+    }
+  },
+  "meta": {
+    "language": "en",
+    "region": "US",
+    "currency": "USD",
+    "dateFormat": "MM/DD/YYYY"
+  },
+  "about": {
+    "title": "About Jaja ID",
+    "company": {
+      "title": "About the Company",
+      "description": [
+        "Jaja ID is a marketplace platform focused on the hobby world. We are here to empower hobby enthusiasts in Indonesia by providing a safe, comfortable, and curated place to buy and sell. Since launched in 2020, we have become home to thousands of communities and active users from various hobby backgrounds.",
+        "With an experienced team and cutting-edge technology, we present a platform that is easy to use, safe, and trusted to meet your digital needs.",
+        "We believe that technology should be accessible to all people and have a positive impact on the nation's progress."
+      ]
+    },
+    "vision_mission": {
+      "title": "Vision & Mission",
+      "vision": {
+        "title": "Vision",
+        "description": "To become the largest and most trusted hobby marketplace in Indonesia that supports community growth, expands access to hobby products, and connects creators and hobby enthusiasts in one safe and innovative platform."
+      },
+      "mission": {
+        "title": "Mission",
+        "items": [
+          "Embrace hobby communities that exist in Indonesia",
+          "Empower SMEs through targeted digitalization",
+          "Meet all hobby needs for all walks of life"
+        ]
+      }
+    },
+    "head_office": {
+      "title": "Head Office Address",
+      "company_name": "PT. Jaja Usaha Laku",
+      "address": {
+        "title": "Address:",
+        "value1": "Jl.H. Baping Raya No. 100",
+        "value2": "Building S, Ciracas",
+        "value3": "East Jakarta, 13740"
+      },
+      "phone": {
+        "title": "Phone:",
+        "value": "+62 878-8833-7555"
+      },
+      "email": {
+        "title": "Email:",
+        "value": "jajabussdev@gmail.com"
+      },
+      "operating_hours": {
+        "title": "Operating Hours:",
+        "value": "Monday - Friday: 08:00 - 16:00 WIB"
+      }
+    }
+  },
+  "privacy_policy": {
+    "introduction": {
+      "title": "Introduction",
+      "section1_1": "1.1 Welcome to the Jaja.id platform. This Privacy Policy (\"Privacy Policy\" or \"Policy\") is designed to help you understand how we collect, use, disclose and/or process personal data that you have entrusted to us and/or that we have about you, both now and in the future, and to help you make informed decisions before providing your personal data to us. Please read this Privacy Policy carefully. If you have questions about this information or our privacy practices, please see the section titled \"Questions, Issues or Complaints? Contact Us\" at the end of this Privacy Policy.",
+      "section1_2": "1.2 \"Personal Data\" or \"personal data\" means data, whether true or not, about an individual who can be identified from that data, or from that data and other information that is accessible or likely to be accessible by an organization. Common examples of personal data may include names, identification numbers and contact information.",
+      "section1_3": "1.3 By using the Services, registering an account with us, visiting our website, or accessing the Services, you acknowledge and agree that you accept the practices, terms, and/or policies outlined in this Privacy Policy, and you hereby consent to our collection, use, disclosure and/or processing of your personal data as described herein. IF YOU DO NOT CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA AS DESCRIBED IN THIS PRIVACY POLICY, PLEASE DO NOT USE OUR SERVICES OR ACCESS OUR WEBSITE. If we change our Privacy Policy, we will post those changes or the revised Privacy Policy on our website. We reserve the right to change this Privacy Policy at any time."
+    },
+    "survey": {
+      "title": "Surveys",
+      "content": "From time to time, we may request information from Users through surveys. Participation in these surveys is entirely voluntary and therefore you have the choice to disclose your information to us or not. The information requested may include, but is not limited to, contact information (such as your email address), and demographic information (such as interests or age level). Survey information will be used for the purpose of monitoring or improving the use and satisfaction of the Services and will not be transferred to third parties, except for our contractors who assist us in managing or following up on surveys."
+    },
+    "thirdParty": {
+      "title": "Information Collected by Third Parties",
+      "section14_1": "14.1 Our site uses Google Analytics, a web analytics service provided by Google, Inc. (\"Google\"). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how Users use the Site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.",
+      "section15_2": "15.2 We, and third parties, may from time to time make software applications available for you to use on or through the Services. These applications may separately access, and allow third parties to view, your identifying information, such as your name, your user ID, your computer's IP address or other information such as cookies that you may have previously installed or that have been installed for you by third party software applications or websites. Additionally, these applications may request you to provide additional information directly to third parties. Third party products or services provided through these applications are not owned or controlled by Jaja.id. You are encouraged to read the terms and conditions published by such third parties on their websites or elsewhere."
+    },
+    "termsConditions": {
+      "title": "Terms and Conditions",
+      "content": "Please also read the Terms of Service which set out the use, disclaimers, and limitations of liability that govern the use of the Site and Services as well as other related policies."
+    },
+    "sharing_information": {
+      "title": "Sharing Information from Services",
+      "description": "Our services allow Users to share their personal information with each other, in almost all occasions without Jaja.id involvement, to complete transactions. In regular transactions, Users may have access to names, user IDs, email addresses as well as contact and other postal information from other users."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "description": "6.1 From time to time we may implement \"cookies\" or other features to enable us or third parties to collect or share information that will help us improve our Site and Services we offer, or help us offer new services and features. \"Cookies\" are identifiers that we transfer to your computer or software that allow us to recognize your computer or device and tell us how and when Services or websites are used or visited, by how many people and track movements within our website. We may link cookie information to personal data. Cookies are also linked to information about items you have selected for purchase and pages you have viewed. This information is used for example to monitor your shopping cart. Cookies are also used to deliver content that matches your interests and monitor website usage. 6.2 You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of our Site or Services."
+    },
+    "personal_data_collection": {
+      "title": "When Does Jaja.ID Collect Personal Data?",
+      "description": "2.1 We will/may collect your personal data:",
+      "items": [
+        "when you register and/or use our Services or Site, or open an account with us.",
+        "when you enter into an agreement or provide documents or other information in connection with your interactions with us, or when you use our products and services;",
+        "when you submit any forms, including, but not limited to, application forms or other forms relating to our products and services, whether online or in physical form;",
+        "when you use our electronic services, or interact with us through our applications or use services on our website. This includes, without limitation, through cookies that we may use when you interact with our applications or websites;",
+        "when you interact with us, such as through telephone calls (which may be recorded), letters, faxes, face-to-face meetings, social media platforms and email;",
+        "when you submit your personal data to us for any reason.",
+        "when you transact through our Services;",
+        "when you submit criticisms and suggestions or complaints to us;",
+        "when you register for a contest; or"
+      ],
+      "additional_info": [
+        "The above list is not intended as a complete list and only sets out some common examples of when your personal data may be taken.",
+        "2.2 When you visit, use or interact with our mobile applications or Sites, we may collect certain information automatically or passively using various technologies, where such technologies may be downloaded to your device and may set or change settings on your device. Information we collect may include, without limitation, Internet Protocol (IP) addresses, computer/mobile device operating system and browser type, mobile device type, mobile device characteristics, unique device identifier (UDID) or mobile equipment identifier (MEID) for your mobile device, referring site address (if any), and pages you visit on our websites and mobile applications as well as visit counts. We may only collect, use, disclose and/or process this information for the Purposes (defined below).",
+        "2.4 Our mobile applications may collect precise information about the location of your mobile device using technologies such as GPS, Wi-Fi, etc. We collect, use, disclose and/or process this information for one or more Purposes including, without limitation, location-based services you request or to deliver relevant content to you based on your location or to enable you to share your location with other Users as part of our mobile application services. For most mobile devices, you can withdraw your permission for us to obtain this location information through your device settings. If you have questions about how to disable location services on your mobile device, please contact your mobile device service provider or device manufacturer."
+      ]
+    },
+    "data_types": {
+      "title": "What Personal Data Will Be Collected by Jaja.ID?",
+      "description": "3.1 Personal data that may be collected by Jaja.id includes but is not limited to:",
+      "items": [
+        "name;",
+        "email address;",
+        "phone number;",
+        "date of birth;",
+        "gender;",
+        "billing address;",
+        "bank account and payment information;",
+        "any other information about Users when Users register to use"
+      ],
+      "additional_info": "Services or our website, and when Users use Services or website, as well as information related to how Users use our Services or website; and all data about content that Users use. 3.2 If you do not want us to collect the personal information/data mentioned above, you may opt out at any time by notifying our Data Protection Officer in writing about this. More information about opting out can be found in the section below titled \"How can you opt out, delete, request access or change information you have provided to us?\". However, please note that opting out of us collecting your personal data or withdrawing your permission for us to collect, use or process your personal data may affect your use of the Services. For example, opting out of location information collection will result in location-based features being disabled."
+    },
+    "third_party_security": {
+      "title": "Disclaimer About Security and Third Party Sites",
+      "description": [
+        "16.1 WE DO NOT GUARANTEE THE SECURITY OF PERSONAL DATA AND/OR OTHER INFORMATION THAT YOU PROVIDE ON THIRD PARTY SITES. We implement various security measures to maintain the security of your personal data that we have or under our control. Your personal data is behind secure networks and can only be accessed by a small number of people who have special access rights to such systems, and are required to keep such personal data confidential. When you place orders or access your personal data, we offer the use of secure servers. All personal data or sensitive information you provide is encrypted into our database only to be accessed as mentioned above.",
+        "16.2 In an effort to provide better value to you, we may choose various third-party websites to be linked and framed within the Site. We may also participate in co-branding and other relationships to offer e-commerce as well as other services and features to our visitors. These linked sites have separate and independent privacy policies as well as security arrangements. Even if such third parties are affiliated with us, we have no control over such linked sites, and each such site has separate and independent privacy practices and data collection from us. Data collected by our partners in co-branding or third-party websites (even if offered on or through our Site) may not be received by us.",
+        "16.3 Therefore we are not responsible or have any liability for the content, security arrangements (or lack thereof) and activities of such linked sites. These linked sites are for your convenience only and therefore you access them at your own risk. Nevertheless, we strive to protect the integrity of our Site and each link placed and therefore we welcome any feedback about such linked sites (including, without limitation, when certain links do not work)."
+      ]
+    },
+    "services": {
+      "title": "Services",
+      "description": "8.1 We provide customer service support through email, SMS and feedback forms. In order to provide customer support, we will ask for your email address and mobile phone number. We will only use information received from customer support requests, including, without limitation, email addresses, for customer support services and we do not transfer or share this information with any third parties."
+    },
+    "viewing_web": {
+      "title": "Viewing Web Pages",
+      "description": "Like most websites, your computer sends information that may include personal data about you that is recorded by web servers when you browse our Site. This typically includes without limitation your computer's IP address, operating system, your browser name/version, referring web page, requested pages, date/time, and sometimes \"cookies\" (which can be disabled using your browser preferences) to help the site remember your last visit. If you log in, this information is associated with your personal account. Information is also included in anonymous statistics to allow us to understand how visitors use our site."
+    },
+    "protecting_information": {
+      "title": "How Does Jaja.ID Protect Customer Information?",
+      "description": "We implement various security measures to ensure the security of your personal data in our systems. User personal data is behind secure networks and can only be accessed by a small number of employees who have special access rights to such systems. If you stop using the Site, or your permission to use the Site and/or Services is terminated, we may continue to store, use and/or disclose your personal data in accordance with this Privacy Policy. Subject to applicable law, we may dispose of your personal data securely without prior notice to you."
+    },
+    "creating_account": {
+      "title": "Creating an Account",
+      "description": "To use certain features of the Service, you must create a user account that requires you to submit certain personal data. When you register and create an account, we require you to provide us with your name and email address as well as a username of your choice. We also ask for certain information about yourself such as phone number, email address, shipping address, photo identification, bank account details, age, date of birth, gender and your interests. After activating your account, you will choose a username and password. Your username and password will be used so you can securely access and manage your account."
+    },
+    "opting_out": {
+      "title": "How Can You Opt Out, Delete, Request Access or Change Information You Have Provided to Us?",
+      "sections": {
+        "opt_out": {
+          "title": "17.1 Opting Out and Withdrawing Consent",
+          "items": [
+            "17.1.1 To change your email subscription, please notify us by sending an email to jajabussdev@gmail.com Please note that due to email production schedules, you may still receive emails that have already been produced.",
+            "17.1.2 You may withdraw your consent to the collection, use and/or disclosure of your personal data that we have or under our control by sending an email to jajabussdev@gmail.com",
+            "17.1.3 Once we receive clear withdrawal instructions from you and verify your identity, we will process your request for withdrawal of consent, and thereafter we will not collect, use and/or disclose your personal data in the manner set out in your request. If we cannot verify your identity or understand your instructions, we will contact you to understand your request.",
+            "17.1.4 However, your withdrawal of consent may result in certain legal consequences arising from such withdrawal. In this case, depending on the extent of withdrawal of consent for us to process your personal data, this may mean that we will not be able to continue to provide the Service to you, we may need to terminate the relationship and/or contract you have with us, etc., as the case may be, which we will notify you of."
+          ]
+        },
+        "access_correction": {
+          "title": "17.2 Requesting Access and/or Correction of Personal Data",
+          "items": [
+            "17.2.1 If you have an account with us, you may access and/or correct your personal data that we currently have or control yourself through the Account Settings page on the Site. If you do not have an account with us, you may request to access and/or correct your personal data that we currently have or control by submitting a written request to us. We will need sufficient information from you to ascertain your identity as well as the nature of your request so that we can deal with your request. Therefore, please send your written request by sending an email to jajabussdev@gmail.com",
+            "17.2.2 For requests to access personal data, once we have sufficient information from you to deal with the request, we will endeavor to provide you with the relevant personal data within 30 days, we will notify you when we can provide the requested information to you as soon as possible.",
+            "17.2.3 For requests to correct personal data, once we have sufficient information from you to deal with the request, we will: (a) correct your personal data within 30 days. If we cannot do so within that time frame, we will notify you when we can make the correction as soon as possible. Please note that there are certain situations where correction need not be made by us despite a request by you; and",
+            "17.2.4 We may also/can impose a reasonable fee on you for handling and processing your request to access your personal data. If we choose to impose a fee, we will provide you with a written estimate of the fee we will impose on you. Please note that we are not required to respond to or deal with your access request unless you have agreed to pay such fee.",
+            "17.2.5 We reserve the right to refuse to correct your personal data in accordance with the provisions set out in the Privacy Act."
+          ]
+        }
+      }
+    },
+    "downloading_content": {
+      "title": "Viewing and Downloading Content and Advertisements",
+      "description": "Just like when browsing web pages, when you view content and advertisements and access other software on our Site or through Services, some of the same information is sent to us (including, without limitation, IP Address, operating system, etc.); but instead of about how many times pages are viewed, your computer sends information to us about content, advertisements viewed and/or software installed by the Service and website and time."
+    },
+    "disclosure": {
+      "title": "Does Jaja.ID Disclose Information It Collects from Visitors to Outside Parties?",
+      "description": "13.1 In conducting our business, we will/may need to disclose your personal data to third party service providers, agents and/or our affiliates or related companies, and/or other third parties, for one or more of the Purposes mentioned above. Such third party service providers, agents and/or affiliates or related companies and/or other third parties will process your personal data on our behalf or others, for one or more of the Purposes mentioned above. Such third parties include, without limitation:",
+      "items": [
+        "(a) our subsidiaries, affiliates and related companies;",
+        "(b) contractors, agents, service providers and other third parties we use to support our business. This includes but is not limited to those who provide administrative or other services to us such as, postal services, telecommunications companies, information technology companies and data centers;",
+        "(c) a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Jaja.id's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal data held by Jaja.id about our Service Users is among the assets transferred; or to counterparties in a business asset transaction involving Jaja.id or one of its affiliates or related companies; and",
+        "(d) third parties to whom we disclose such data for one or more Purposes and such third parties in turn will collect and process your personal data for one or more Purposes"
+      ],
+      "additional_info": [
+        "13.2 This may require, among other things, sharing statistical and demographic information about our Users and their use of the Services to advertising and programming suppliers. This will not include anything that can be used to specifically identify you or find personal information about you.",
+        "13.3 For the avoidance of doubt, in the event that Privacy Laws or other applicable laws permit an organization such as us to collect, use or disclose your personal data without your consent, the permission granted by such laws will continue to apply.",
+        "13.4 Third parties may intercept or access personal data transmitted to or stored on the site without permission, technology may malfunction or not work as expected, or someone may access, exploit or misuse information without fault on our part. Nevertheless we will use reasonable security arrangements to protect your personal data; however it is unavoidable, there is no absolute security guarantee such as but not limited to unauthorized disclosure arising from malicious and sophisticated hacking by disgruntled or hostile parties without fault on our part."
+      ]
+    },
+    "information_usage": {
+      "title": "How Do We Use the Information You Provide to Us?",
+      "description": "10.1 We may collect, use, disclose and/or process your personal data for one or more of the following purposes:",
+      "items": [
+        "(a) to consider and/or process your application/transaction with us or your transactions and communications with third parties through the Service;",
+        "(b) to manage, operate, provide and/or administer your use of and/or access to our Services and our website, as well as your relationship and user account with us.",
+        "(c) to manage, operate, administer, provide to you and facilitate the provision of our Services, including, without limitation, remembering your preferences;",
+        "(d) to tailor your experience through the Services by displaying content according to your interests and preferences, providing faster methods for you to access your account and submit information to us and allowing us to contact you, if necessary;",
+        "(e) to respond to, process, deal with or complete transactions and/or fulfill your requests for certain products and services and notify you of service issues and unusual account actions;",
+        "(f) to enforce Terms of Service or any applicable end user license agreements;",
+        "(g) to protect personal safety and the rights, property or safety of others;",
+        "(h) for identification and/or verification;",
+        "(i) to maintain and provide any software updates and/or other updates and support that may be required from time to time to ensure the smooth operation of our Services;",
+        "(j) to deal with or facilitate customer service, carry out your instructions, deal with or respond to any enquiries made by (or purportedly made by) you or on your behalf;",
+        "(k) to contact you or communicate with you via voice calls, text and/or fax messages, email and/or postal mail or other means for the purpose of administering and/or managing your relationship with us or your use of our Services, such as but not limited to communicating administrative information to you relating to our Services. You acknowledge and agree that such communication by us may be made by sending letters, documents or notices to you, which may involve disclosure of certain personal data about you to make such delivery as well as appear on the outer cover of the envelope/postal package;",
+        "(l) to notify you when other Users have sent you private messages or posted comments for you on the Site;",
+        "(m) to conduct research, analysis and development activities (including, but not limited to, data analysis, surveys, product and service development and/or profiling), to analyze how you use our Services, improve our Services or products and/or improve your customer experience;",
+        "(n) to enable audits and surveys to, among other things, validate the size and composition of our target audience, and understand their experience with Jaja.id Services;",
+        "(o) where you give us your prior consent for marketing and in such event, to send you by post, email, location-based services or otherwise, marketing and promotional information and materials relating to products and/or services (including, without limitation, third party products and/or services which may collaborate or be associated with Jaja.id) that may be sold, marketed or promoted by Jaja.id (and/or its affiliates or related companies), whether such products or services exist now or are created in the future.",
+        "(p) to generate statistics and research for internal and legally required reporting and/or archival requirements;",
+        "(q) to carry out due diligence or other screening activities (including, without limitation, background checks) in accordance with legal or regulatory obligations or our risk management procedures that may be required by law or that have been imposed by us;",
+        "(r) to audit our Services;",
+        "(s) to prevent or investigate any fraud, unlawful activity, omission or misconduct, whether relating to your use of our Services or any other matter arising from your relationship with us, and whether or not there is any suspicion of the aforementioned;",
+        "(t) to store, host, back up (whether for disaster recovery or otherwise) your personal data, whether within or outside of your jurisdiction;",
+        "(u) any other purpose which we notify you of at the time of obtaining your consent."
+      ],
+      "additional_info": [
+        "(collectively referred to as the \"Purposes\").",
+        "10.2 As the purposes for which we will/may collect, use, disclose or process your personal data depend on the circumstances at hand, such purpose may not appear above. However, we will notify you of such other purposes at the time of obtaining your consent."
+      ]
+    },
+    "contact_us": {
+      "title": "Questions, Issues or Complaints? Contact Us",
+      "description": "18.1 If you have any questions or concerns about our privacy practices or your relationship with the Service, please do not hesitate to contact: jajabussdev@gmail.com"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "tableOfContents": {
+      "title": "Table of Contents",
+      "items": [
+        { "href": "#1", "text": "Introduction" },
+        { "href": "#2", "text": "When Does Jaja.id Collect Personal Data?" },
+        { "href": "#3", "text": "What Personal Data Will Be Collected by Jaja.id?" },
+        { "href": "#4", "text": "Creating an Account" },
+        { "href": "#5", "text": "Viewing Web Pages" },
+        { "href": "#6", "text": "Cookies" },
+        { "href": "#7", "text": "Viewing and Downloading Content and Advertisements" },
+        { "href": "#8", "text": "Services" },
+        { "href": "#9", "text": "Surveys" },
+        { "href": "#10", "text": "How We Use the Information You Provide to Us" },
+        { "href": "#11", "text": "Sharing Information from Services" },
+        { "href": "#12", "text": "How Does Jaja.id Protect Customer Information?" },
+        { "href": "#13", "text": "Does Jaja.id Disclose Information to External Parties?" },
+        { "href": "#14", "text": "Information Collected by Third Parties" },
+        { "href": "#15", "text": "Disclaimer About Security and Third-Party Sites" },
+        { "href": "#16", "text": "How You Can Opt Out or Change Information" },
+        { "href": "#17", "text": "Questions, Issues or Complaints? Contact Us" },
+        { "href": "#18", "text": "Terms and Conditions" }
+      ]
+    },
+    "sections": {
+      "introduction": {
+        "title": "Introduction",
+        "content": {
+          "paragraph1": "1.1 Welcome to the Jaja.id platform. This Privacy Policy (\"Privacy Policy\" or \"Policy\") is designed to help you understand how we collect, use, disclose and/or process personal data that you have entrusted to us and/or that we have about you, both now and in the future, and to help you make informed decisions before providing your personal data to us. Please read this Privacy Policy carefully. If you have questions about this information or our privacy practices, please see the section entitled \"Questions, Issues or Complaints? Contact Us\" at the end of this Privacy Policy.",
+          "paragraph2": "1.2 \"Personal Data\" or \"personal data\" means data, whether true or not, about an individual who can be identified from that data, or from that data and other information that can or is likely to be accessible by an organization. Common examples of personal data may include name, identification number, and contact information.",
+          "paragraph3": "1.3 By using the Services, registering an account with us, visiting our website, or accessing the Services, you acknowledge and agree that you accept the practices, requirements, and/or policies outlined in this Privacy Policy, and you hereby authorize us to collect, use, disclose and/or process your personal data as described herein. IF YOU DO NOT AUTHORIZE THE PROCESSING OF YOUR PERSONAL DATA AS DESCRIBED IN THIS PRIVACY POLICY, PLEASE DO NOT USE OUR SERVICES OR ACCESS OUR WEBSITE. If we change our Privacy Policy, we will post those changes or the revised Privacy Policy on our website. We reserve the right to change this Privacy Policy at any time."
+        }
+      },
+      "thirdPartyInfo": {
+        "title": "Information Collected by Third Parties",
+        "content": {
+          "paragraph1": "14.1 Our site uses Google Analytics, a web analytics service provided by Google, Inc. (\"Google\"). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how Users use the Site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.",
+          "paragraph2": "15.2 We, and third parties, may from time to time make software application downloads available for you to use on or through the Services. These applications may separately access, and allow third parties to view, your identifying information, such as your name, your user ID, your computer's IP Address or other information such as cookies that may have been previously installed or installed for you by third party software applications or websites. Additionally, these applications may request you to provide additional information directly to third parties. Third party products or services provided through these applications are not owned or controlled by Jaja.id. You are encouraged to read the terms and conditions published by such third parties on their websites or elsewhere."
+        }
+      },
+      "surveys": {
+        "title": "Surveys",
+        "content": {
+          "paragraph1": "From time to time, we may request information from Users through surveys. Participation in these surveys is completely voluntary and therefore you have a choice whether or not to disclose your information to us. Information requested may include, but is not limited to, contact information (such as your email address), and demographic information (such as interests or age level). Survey information will be used for purposes of monitoring or improving the use and satisfaction of the Services and will not be transferred to third parties, except our contractors who help us manage or follow up on the survey."
+        }
+      },
+      "termsConditions": {
+        "title": "Terms and Conditions",
+        "content": {
+          "paragraph1": "Please also read the Terms of Service which set out the use, disclaimers, and limitations of liability governing the use of the Site and Services and other related policies."
+        }
+      }
+    },
+    "ui": {
+      "toggleSidebar": "Toggle Sidebar",
+      "menuIcon": "menu-line",
+      "closeIcon": "close-line",
+      "listIcon": "ri-list-unordered"
+    },
+    "gradients": {
+      "primary": "bg-gradient-to-r from-gray-800 to-[#ED5625] bg-clip-text text-transparent",
+      "header": "bg-gradient-to-r from-white to-blue-100 bg-clip-text text-transparent"
+    },
+    "colors": {
+      "primary": "#55B4E5",
+      "accent": "#ED5625",
+      "hover": "hover:bg-blue-700",
+      "text": "text-gray-700",
+      "textHover": "hover:text-blue-600"
+    }
+  }
+}
