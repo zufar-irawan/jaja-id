@@ -63,18 +63,19 @@ const Gratis = () => {
                         {/* Image with floating animation */}
                         <div className="relative">
                             <Image
-                                src={"/images/gratis.png"}
-                                alt="Free Delivery"
+                                src={"/images/motor-pengiriman-gratis.webp"}
+                                alt="Motor Pengiriman Cepat"
                                 width={isMedium ? 320 : 500}
                                 height={isMedium ? 320 : 500}
+                                loading="lazy"
                                 className="w-full h-auto object-contain filter drop-shadow-2xl"
                             />
                         </div>
 
                         {/* Sparkle effects */}
-                        <div className="absolute top-8 left-8 w-3 h-3 bg-yellow-400 rounded-full animate-ping"></div>
-                        <div className="absolute bottom-8 right-8 w-2 h-2 bg-orange-400 rounded-full animate-ping delay-300"></div>
-                        <div className="absolute top-1/2 right-6 w-4 h-4 bg-amber-400 rounded-full animate-ping delay-700"></div>
+                        {/* <div className="absolute top-8 left-8 w-6 h-6 bg-yellow-400 rounded-full"></div>
+                        <div className="absolute bottom-8 right-8 w-2 h-2 bg-orange-400 rounded-full"></div>
+                        <div className="absolute top-1/2 right-6 w-4 h-4 bg-amber-400 rounded-full animate-bounce delay-700"></div> */}
                     </div>
                 </div>
 
@@ -99,10 +100,10 @@ const Gratis = () => {
                         className={`
                             relative transition-all duration-700 ease-out transform
                             ${isInView
-                                ? 'translate-y-0 opacity-100 scale-100 shadow-2xl bg-gradient-to-br from-orange-400 via-amber-400 to-yellow-400'
-                                : 'translate-y-8 opacity-80 scale-95 bg-gradient-to-br from-orange-200 via-amber-200 to-yellow-200'
+                                ? 'translate-y-0 opacity-100 scale-100 shadow-2xl bg-white'
+                                : 'translate-y-8 opacity-80 scale-95 bg-gray-100/80'
                             }
-                            backdrop-blur-sm border border-white/30 rounded-2xl p-8 overflow-hidden
+                            backdrop-blur-sm border-2 border-orange-400/30 rounded-2xl p-8 overflow-hidden
                         `}
                     >
                         {/* Animated background pattern */}
@@ -114,34 +115,34 @@ const Gratis = () => {
 
                         {/* Content */}
                         <div className="relative z-10">
-                            <p className="text-white leading-relaxed text-base lg:text-lg font-medium drop-shadow-md">
+                            <p className="text-gray-800 leading-relaxed text-base lg:text-lg drop-shadow-md">
                                 {t('description')}
                             </p>
 
                             {/* Savings highlights */}
                             <div className="mt-6 grid grid-cols-2 gap-4 text-sm">
-                                <div className="flex items-center gap-2 text-white/90">
-                                    <div className="w-3 h-3 bg-green-300 rounded-full animate-pulse"></div>
+                                <div className="flex items-center gap-2 text-gray-500/90">
+                                    <div className="w-3 h-3 bg-green-400 rounded-full animate-pulse"></div>
                                     <span>{t('features.save100Shipping')}</span>
                                 </div>
-                                <div className="flex items-center gap-2 text-white/90">
-                                    <div className="w-3 h-3 bg-blue-300 rounded-full animate-pulse delay-200"></div>
+                                <div className="flex items-center gap-2 text-gray-500/90">
+                                    <div className="w-3 h-3 bg-blue-400 rounded-full animate-pulse delay-200"></div>
                                     <span>{t('features.noMinimumOrder')}</span>
                                 </div>
-                                <div className="flex items-center gap-2 text-white/90">
-                                    <div className="w-3 h-3 bg-purple-300 rounded-full animate-pulse delay-400"></div>
+                                <div className="flex items-center gap-2 text-gray-500/90">
+                                    <div className="w-3 h-3 bg-purple-400 rounded-full animate-pulse delay-400"></div>
                                     <span>{t('features.allProducts')}</span>
                                 </div>
-                                <div className="flex items-center gap-2 text-white/90">
-                                    <div className="w-3 h-3 bg-pink-300 rounded-full animate-pulse delay-600"></div>
+                                <div className="flex items-center gap-2 text-gray-500/90">
+                                    <div className="w-3 h-3 bg-pink-400 rounded-full animate-pulse delay-600"></div>
                                     <span>{t('features.wholeIndonesia')}</span>
                                 </div>
                             </div>
                         </div>
 
                         {/* Corner decorations */}
-                        <div className="absolute top-0 right-0 w-24 h-24 bg-gradient-to-br from-white/30 to-transparent rounded-bl-full"></div>
-                        <div className="absolute bottom-0 left-0 w-20 h-20 bg-gradient-to-tr from-white/30 to-transparent rounded-tr-full"></div>
+                        <div className="absolute top-0 right-0 w-24 h-24 bg-gradient-to-br from-yellow-200/50 to-orange-200/50 rounded-bl-full"></div>
+                        <div className="absolute bottom-0 left-0 w-20 h-20 bg-gradient-to-tr to-yellow-200/50 from-orange-200/50 rounded-tr-full"></div>
                     </div>
                 </div>
             </div>

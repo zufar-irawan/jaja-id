@@ -59,12 +59,13 @@ const Pengiriman = () => {
                 <div className={`flex-1 ${isMedium ? 'order-1' : 'order-2'} relative group`}>
                     <div className="relative overflow-hidden p-8 transform transition-all duration-500 hover:scale-105">
                         {/* Floating animation wrapper */}
-                        <div className="">
+                        <div>
                             <Image
-                                src={"/images/Pengiriman.png"}
-                                alt="Kurir Cepat"
+                                src={"/images/truk-pengiriman-cepat.webp"}
+                                alt="Truk Pengiriman Cepat"
                                 width={isMedium ? 280 : 500}
                                 height={isMedium ? 280 : 500}
+                                loading="lazy"
                                 className="w-full h-auto object-contain filter drop-shadow-xl"
                             />
                         </div>

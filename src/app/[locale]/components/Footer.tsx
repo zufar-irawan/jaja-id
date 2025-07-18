@@ -25,7 +25,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
 
           <div className="flex flex-col items-center lg:items-start text-center lg:text-left">
-            <Image src="/images/logo.png" alt="Logo Jaja" width={120} height={40} />
+            <Image loading="lazy" src="/images/logo.webp" alt="Jaja.id Logo" width={120} height={40} />
           </div>
 
           <div>
@@ -40,23 +40,25 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold uppercase mb-4">{t('socialMedia.title')}</h3>
             <div className="flex gap-4 mb-8">
-              <Link target="_blank" href="https://api.whatsapp.com/send?phone=6287888337555"><Image src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width={32} height={32} /></Link>
-              <Link target="_blank" href="https://web.facebook.com/jajaidofficial"><Image src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width={32} height={32} /></Link>
-              <Link target="_blank" href="https://www.instagram.com/jajaid.official/"><Image src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width={32} height={32} /></Link>
-              <Link target="_blank" href="https://www.tiktok.com/@jajaidmarketplace"><Image src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" width={32} height={32} /></Link>
+              <Link target="_blank" href="https://api.whatsapp.com/send?phone=6287888337555"><Image loading="lazy" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp Logo" width={32} height={32} /></Link>
+              <Link target="_blank" href="https://web.facebook.com/jajaidofficial"><Image loading="lazy" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook Logo" width={32} height={32} /></Link>
+              <Link target="_blank" href="https://www.instagram.com/jajaid.official/"><Image loading="lazy" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram Logo" width={32} height={32} /></Link>
+              <Link target="_blank" href="https://www.tiktok.com/@jajaidmarketplace"><Image loading="lazy" src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok Logo" width={32} height={32} /></Link>
             </div>
           </div>
 
           <div>
             <h3 className="text-lg font-semibold uppercase mb-4">{t('shipping.title')}</h3>
             <div className="flex flex-wrap gap-3">
-              <Image src="/images/jnt.png" alt="J&T" width={50} height={24} />
-              <Image src="/images/sicepat.png" alt="SiCepat" width={50} height={24} />
-              <Image src="/images/bca.png" alt="BCA" width={40} height={20} />
-              <Image src="/images/mandiri.png" alt="Mandiri" width={40} height={20} />
-              <Image src="/images/bni.png" alt="BNI" width={40} height={20} />
-              <Image src="/images/visa.png" alt="VISA" width={40} height={20} />
-              <Image src="/images/gopay.png" alt="GoPay" width={40} height={20} />
+              <Image src="/images/jnt-logo.webp" loading="lazy" alt="J&T Logo" width={50} height={24} />
+              <Image src="/images/sicepat-logo.webp" loading="lazy" alt="SiCepat Logo" width={50} height={24} />
+              <Image src="/images/bca-logo.webp" alt="BCA Logo" loading="lazy" width={40} height={20} />
+              <Image src="/images/mandiri-logo.webp" loading="lazy" alt="Mandiri Logo" width={40} height={20} />
+              <Image src="/images/cimb-logo.webp" loading="lazy" alt="CIMB Logo" width={40} height={20} />
+              <Image src="/images/bni-logo.webp" alt="BNI Logo" loading="lazy" width={40} height={20} />
+              <Image src="/images/visa-logo.webp" alt="VISA Logo" loading="lazy" width={40} height={20} />
+              <Image src="/images/master-logo.webp" alt="MasterCard Logo" loading="lazy" width={40} height={20} />
+              <Image src="/images/gopay-logo.webp" alt="GoPay Logo" loading="lazy" width={40} height={20} />
             </div>
           </div>
 
@@ -66,11 +68,11 @@ export default function Footer() {
           <h3 className="text-lg font-semibold uppercase mb-4">{t('download.title')}</h3>
           <div className="flex justify-center gap-4">
             <Link href={"https://apps.apple.com/us/app/jaja-id/id6572288992"} target="_blank">
-              <Image src="/images/appstore.png" alt="App Store" width={150} height={45} />
+              <Image src="/images/appstore-logo.webp" alt="App Store Logo" loading="lazy" width={150} height={45} />
             </Link>
 
             <Link href={"https://play.google.com/store/apps/details?id=com.jajaidbuyer"} target="_blank">
-              <Image src="/images/playstore.png" alt="Play Store" width={150} height={45} />
+              <Image src="/images/playstore-logo.webp" alt="Play Store Logo" loading="lazy" width={150} height={45} />
             </Link>
           </div>
         </div>

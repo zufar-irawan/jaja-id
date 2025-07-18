@@ -104,7 +104,7 @@ const Pembayaran = () => {
                             {/* Payment methods showcase */}
                             <div className="mt-6 p-4 bg-gray-400/10 rounded-xl backdrop-blur-sm border border-black/30">
                                 <div className="text-gray-800 font-semibold mb-3">{t('paymentMethods.title')}</div>
-                                <div className="grid grid-cols-4 gap-2 text-xs text-gray-800">
+                                <div className="grid grid-cols-4 gap-2 text-[9px] sm:text-[8px] md:text-xs lg:text-xs text-gray-800">
                                     <div className="bg-gray-400/20 rounded-lg p-2 text-center">{t('paymentMethods.bankTransfer')}</div>
                                     <div className="bg-gray-400/20 rounded-lg p-2 text-center">{t('paymentMethods.eWallet')}</div>
                                     <div className="bg-gray-400/20 rounded-lg p-2 text-center">{t('paymentMethods.creditCard')}</div>
@@ -126,17 +126,18 @@ const Pembayaran = () => {
 
                         <div className="relative">
                             <Image
-                                src={"/images/pembayaran.png"}
-                                alt="Pembayaran Aman"
+                                src={"/images/handphone-pembayaran-aman.webp"}
+                                alt="Handphone Pembayaran Aman"
                                 width={isMedium ? 280 : 500}
                                 height={isMedium ? 280 : 500}
+                                loading="lazy"
                                 className="w-full h-auto object-contain filter drop-shadow-2xl"
                             />
 
                         </div>
 
                         {/* Floating security indicators */}
-                        <div className="absolute top-6 left-6 w-4 h-4 bg-[#55B4E5] rounded-full animate-ping"></div>
+                        <div className="absolute top-6 left-6 w-4 h-4 bg-blue-600 rounded-full animate-ping"></div>
                         <div className="absolute bottom-6 right-6 w-3 h-3 bg-[#ED5625] rounded-full animate-ping delay-500"></div>
                         <div className="absolute top-1/2 right-4 w-5 h-5 bg-[#FBB338] rounded-full animate-ping delay-1000"></div>
 

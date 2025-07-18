@@ -58,7 +58,7 @@ const Cta = () => {
                     <p className="text-2xl font-bold text-white mb-2">
                         {t('subheading')}
                     </p>
-                    <p className="text-lg text-blue-100 opacity-90">
+                    <p className={`${isSmall ? 'px-1' : ''} text-lg text-blue-100 opacity-90`}>
                         {t('description')}
                     </p>
                 </div>
@@ -69,7 +69,7 @@ const Cta = () => {
                 </p>
 
                 {/* Enhanced buttons with more effects */}
-                <div className={`flex ${isSmall ? 'flex-col px-5' : 'flex-row'} gap-6 mx-auto justify-center mb-8`}>
+                <div className={`flex ${isSmall ? 'flex-col px-5 items-center' : 'flex-row'} gap-6 mx-auto justify-center mb-8`}>
                     <Link href={"https://jaja.id/"}>
                         <button className="bg-[#ED5625] hover:bg-[#c9451b] text-white font-bold py-5 px-10 rounded-2xl shadow-2xl hover:shadow-3xl transition-all duration-300 hover:scale-110 flex items-center justify-center group relative overflow-hidden text-lg">
                             <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -skew-x-12 -translate-x-full group-hover:translate-x-full transition-transform duration-1000"></div>
@@ -80,7 +80,7 @@ const Cta = () => {
                         </button>
                     </Link>
 
-                    <Link href={"https://jaja.id/"}>
+                    <Link href={"https://jaja.id/seller/info"}>
                         <button className="bg-transparent border-2 border-white/40 text-white font-bold py-5 px-10 rounded-2xl hover:bg-white/30 hover:border-white/60 transition-all duration-300 hover:scale-105 shadow-xl text-lg">
                             {t('buttons.sellProducts')}
                         </button>
@@ -89,10 +89,11 @@ const Cta = () => {
                 </div>
 
                 <Image
-                    src={"/images/cta.png"}
-                    alt="Jaja ID"
+                    src={"/images/toys-box.webp"}
+                    alt="Toys Box"
                     width={500}
                     height={500}
+                    loading="lazy"
                     className="mx-auto pt-10"
                 />
             </div>

@@ -40,7 +40,7 @@ const HeroBanner = () => {
 
                 {/* Animation */}
                 <div className="absolute inset-0">
-                    <div className="absolute inset-0 bg-[url('/images/banner.svg')] animate-pulse"></div>
+                    <div className="absolute inset-0 bg-[url('/images/dot.svg')] animate-pulse"></div>
                     <div className="absolute top-20 left-20 w-32 h-32 bg-white rounded-full blur-xl animate-bounce"></div>
                 </div>
 
@@ -70,7 +70,7 @@ const HeroBanner = () => {
                                 {t('description')}
                             </p>
 
-                            <div className="flex flex-col sm:flex-row gap-4">
+                            <div className={`flex flex-col sm:flex-row gap-4`}>
                                 <Link href={"https://jaja.id/"}>
                                     <button className="bg-[#ED5625] hover:bg-[#c9451b] text-white font-semibold py-4 px-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 flex items-center justify-center group">
                                         {t('buttons.startShopping')}
@@ -78,7 +78,7 @@ const HeroBanner = () => {
                                     </button>
                                 </Link>
 
-                                <Link href={"https://jaja.id/"}>
+                                <Link href={"https://jaja.id/seller/info"}>
                                     <button className="bg-transparent border-2 border-white/30 text-white font-semibold py-4 px-8 rounded-xl hover:bg-white/30 transition-all duration-300 hover:scale-105">
                                         {t('buttons.sellProducts')}
                                     </button>
@@ -90,10 +90,11 @@ const HeroBanner = () => {
                         <div className={`${isMedium ? 'hidden' : ''} flex-1 lg:ml-12 mt-12 lg:mt-0 transition-all duration-1000 delay-300`}>
                             <div className="relative w-full h-[400px] flex items-center justify-center">
                                 <Image
-                                    src={'/images/placeholder.png'}
-                                    alt={`Hobby`}
+                                    src={'/images/3d-room-miniature.webp'}
+                                    alt="3d Room Miniature"
                                     width={500}
                                     height={500}
+                                    loading='lazy'
                                     className={`bg-transparent absolute transition-all duration-700 hover:scale-105 float-animation`}
                                 />
                             </div>

@@ -61,19 +61,20 @@ const Dijamin = () => {
                         {/* Image with premium glow */}
                         <div className="relative">
                             <Image
-                                src={"/images/dijamin.png"}
+                                src={"/images/verified-badge.webp"}
                                 alt="Dijamin 100% Ori"
                                 width={isMedium ? 300 : 500}
                                 height={isMedium ? 300 : 500}
+                                loading="lazy"
                                 className="w-full h-auto object-contain filter drop-shadow-2xl"
                             />
 
                         </div>
 
                         {/* Premium indicators */}
-                        <div className="absolute top-6 left-6 w-4 h-4 bg-gold-400 rounded-full animate-ping"></div>
+                        {/* <div className="absolute top-6 left-6 w-4 h-4 bg-gold-400 rounded-full animate-ping"></div>
                         <div className="absolute bottom-6 right-6 w-3 h-3 bg-amber-400 rounded-full animate-ping delay-500"></div>
-                        <div className="absolute top-1/2 right-4 w-5 h-5 bg-yellow-400 rounded-full animate-ping delay-1000"></div>
+                        <div className="absolute top-1/2 right-4 w-5 h-5 bg-yellow-400 rounded-full animate-ping delay-1000"></div> */}
 
                     </div>
                 </div>
@@ -99,10 +100,10 @@ const Dijamin = () => {
                         className={`
                             relative transition-all duration-700 ease-out transform
                             ${isInView
-                                ? 'translate-y-0 opacity-100 scale-100 shadow-2xl bg-gradient-to-br from-[#0ca3ee] to-[#55B4E5] via-[#55B4E5]'
-                                : 'translate-y-8 opacity-80 scale-95 bg-blue-400/60'
+                                ? 'translate-y-0 opacity-100 scale-100 shadow-2xl bg-white'
+                                : 'translate-y-8 opacity-80 scale-95 bg-gray-100/80'
                             }
-                            backdrop-blur-sm border border-white/20 rounded-2xl p-8 overflow-hidden
+                            backdrop-blur-sm border-2 border-[#55B4E5]/50 rounded-2xl p-8 overflow-hidden
                         `}
                     >
                         {/* Premium pattern overlay */}
@@ -115,17 +116,17 @@ const Dijamin = () => {
 
                         {/* Content */}
                         <div className="relative z-10">
-                            <p className="text-white leading-relaxed text-base lg:text-lg">
+                            <p className="text-gray-800 leading-relaxed text-base lg:text-lg">
                                 {t('description')}
                             </p>
 
                             {/* Quality assurance features */}
                             <div className="mt-6 grid grid-cols-2 gap-4 text-sm">
-                                <div className="flex items-center gap-2 text-white">
+                                <div className="flex items-center gap-2 text-gray-500">
                                     <div className="w-3 h-3 bg-[#ED5625] rounded-full animate-pulse"></div>
                                     <span>{t('features.officialWarranty')}</span>
                                 </div>
-                                <div className="flex items-center gap-2 text-white">
+                                <div className="flex items-center gap-2 text-gray-500">
                                     <div className="w-3 h-3 bg-[#FBB338] rounded-full animate-pulse delay-200"></div>
                                     <span>{t('features.qualityControl')}</span>
                                 </div>
@@ -135,8 +136,8 @@ const Dijamin = () => {
                         </div>
 
                         {/* Corner decorations */}
-                        <div className="absolute top-0 right-0 w-24 h-24 bg-gradient-to-br from-amber-200/50 to-transparent rounded-bl-full"></div>
-                        <div className="absolute bottom-0 left-0 w-20 h-20 bg-gradient-to-tr from-yellow-200/50 to-transparent rounded-tr-full"></div>
+                        <div className="absolute top-0 right-0 w-24 h-24 bg-gradient-to-br from-[#55B4E5] to-transparent rounded-bl-full"></div>
+                        <div className="absolute bottom-0 left-0 w-20 h-20 bg-gradient-to-tr from-indigo-400 to-transparent rounded-tr-full"></div>
                     </div>
                 </div>
             </div>

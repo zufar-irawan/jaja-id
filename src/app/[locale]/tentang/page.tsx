@@ -63,10 +63,11 @@ export default function TentangPage() {
                             </div>
                             <div className="flex justify-center">
                                 <Image
-                                    src="/images/tentang.jpg"
-                                    alt="Jaja ID"
+                                    src="/images/laptop-data.webp"
+                                    alt="Laptop Data"
                                     width={500}
                                     height={400}
+                                    loading="lazy"
                                     className="rounded-lg shadow-lg w-full max-w-md h-80 object-cover"
                                 />
                             </div>
@@ -126,10 +127,11 @@ export default function TentangPage() {
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                             <div className="flex justify-center lg:order-2">
                                 <Image
-                                    src="/images/alamat.jpg"
+                                    src="/images/gedung-eureka.webp"
                                     alt={t('head_office.company_name')}
                                     width={500}
                                     height={400}
+                                    loading="lazy"
                                     className="rounded-lg shadow-lg w-full max-w-md h-80 object-cover"
                                 />
                             </div>

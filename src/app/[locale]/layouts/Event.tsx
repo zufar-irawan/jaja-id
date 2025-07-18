@@ -43,6 +43,7 @@ const Events = () => {
                                 alt={t('altText')}
                                 width={700}
                                 height={700}
+                                loading='lazy'
                                 className="mx-auto rounded-2xl"
                             />
                         </div>
