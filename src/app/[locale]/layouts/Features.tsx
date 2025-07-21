@@ -72,7 +72,7 @@ const FeaturesSection = () => {
 
             {/* Animation */}
             <div className="absolute inset-0">
-                <div className="absolute inset-0 bg-[url('/images/banner.svg')] animate-pulse"></div>
+                <div className="absolute inset-0 bg-[url('/images/dot.svg')] animate-pulse"></div>
             </div>
 
             {/* Main Content */}
